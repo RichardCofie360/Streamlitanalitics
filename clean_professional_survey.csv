@@ -1,0 +1,631 @@
+role,switch_careers,salary,industry,programming_language,happiness_position,happiness_work/life_balace,hapinnes_coworkres,happiness_management,happiness_upward_mobility,happiness_learning,difficulty,important_new_job,sex,age,country,education,ethnicity
+Data Analyst,Yes,106k-125k,Healthcare,Python,9.0,9.0,7.0,5.0,5.0,7.0,Very Difficult,Remote Work,Male,26,United States,,White or Caucasian
+Data Analyst,No,41k-65k,Finance,R,1.0,2.0,5.0,2.0,1.0,3.0,Very Difficult,Remote Work,Male,36,Canada,,Asian or Asian American
+Data Engineer,No,0-40k,Energy,Python,0.0,8.0,7.0,5.0,7.0,7.0,Easy,Good Work/Life Balance,Male,23,Nigeria,,Black or African American
+Analytics Consultant ,Yes,150k-225k,Finance,R,10.0,6.0,7.0,10.0,7.0,10.0,Very Easy,Remote Work,Female,35,Canada,,White or Caucasian
+Data Analyst,Yes,41k-65k,Healthcare,R,1.0,4.0,4.0,4.0,0.0,1.0,Difficult,Better Salary,Male,44,United States,,Black or African American
+Data Analyst,Yes,0-40k,Coworking space ,Python,2.0,3.0,3.0,3.0,3.0,2.0,Difficult,Good Work/Life Balance,Male,33,Republic democratic of Congo ,,Black or African American
+Data Scientist,Yes,0-40k,Finance,Python,0.0,6.0,6.0,6.0,6.0,5.0,Difficult,Better Salary,Male,24,Other (Please Specify),,Black or African American
+Data Engineer,Yes,125k-150k,Marketing,SQL,10.0,5.0,5.0,5.0,5.0,9.0,Neither easy nor difficult,Remote Work,Male,35,United States,,Asian or Asian American
+Data Analyst,Yes,86k-105k,Healthcare,R,4.0,4.0,4.0,4.0,5.0,5.0,Neither easy nor difficult,Better Salary,Male,35,United States,,Asian or Asian American
+Data Analyst,Yes,41k-65k,Telecommunication,Python,2.0,0.0,3.0,3.0,0.0,4.0,Very Difficult,Better Salary,Male,28,United States,,Hispanic or Latino
+Data Analyst,Yes,66k-85k,Logistics,Python,10.0,10.0,8.0,8.0,8.0,10.0,Neither easy nor difficult,Remote Work,Male,37,Canada,,White or Caucasian
+Data Analyst,Yes,0-40k,Tech,Python,3.0,8.0,10.0,10.0,7.0,8.0,Neither easy nor difficult,Better Salary,Male,32,Serbia,,White or Caucasian
+Data Analyst,Yes,0-40k,Tech,R,1.0,10.0,9.0,9.0,5.0,10.0,Neither easy nor difficult,Better Salary,Male,34,Argentina,,Latino with Italian roots
+Data Scientist,Yes,0-40k,Education,Python,3.0,10.0,10.0,6.0,7.0,8.0,Easy,Good Work/Life Balance,Male,30,United Kingdom,,White or Caucasian
+Data Analyst,No,41k-65k,Construction,R,4.0,5.0,5.0,5.0,4.0,5.0,Neither easy nor difficult,Good Culture,Male,31,United States,,White or Caucasian
+Data Analyst,Yes,41k-65k,Finance,Python,4.0,10.0,7.0,7.0,7.0,5.0,Difficult,Good Culture,Male,29,United States,,White or Caucasian
+Data Analyst,Yes,0-40k,Tech,Python,1.0,2.0,4.0,2.0,2.0,2.0,Neither easy nor difficult,Better Salary,Male,22,Niger,,Black or African American
+Student/Looking/None,Yes,0-40k,Marketing,Python,1.0,3.0,2.0,2.0,4.0,1.0,Difficult,Better Salary,Male,23,United States,,Black or African American
+Student/Looking/None,No,41k-65k,Tech,R,7.0,8.0,8.0,6.0,8.0,3.0,Very Difficult,Better Salary,Female,26,Canada,,Asian or Asian American
+Data Analyst,No,0-40k,Aviation,Python,1.0,1.0,1.0,1.0,2.0,0.0,Very Difficult,Better Salary,Male,28,Nigeria,,Black or African American
+Data Analyst,Yes,41k-65k,Finance,Python,5.0,5.0,5.0,5.0,5.0,5.0,Easy,Remote Work,Male,29,Kenya,,Black or African American
+Data Analyst,Yes,106k-125k,Tech,SQL,10.0,5.0,10.0,6.0,10.0,10.0,Neither easy nor difficult,Remote Work,Female,31,United States,,White or Caucasian
+Data Analyst,Yes,0-40k,Healthcare,Python,5.0,6.0,8.0,8.0,7.0,1.0,Neither easy nor difficult,Remote Work,Male,28,Azerbaijan,,White or Caucasian
+Data Analyst,No,0-40k,Finance,Python,4.0,4.0,4.0,4.0,4.0,4.0,Neither easy nor difficult,Better Salary,Male,32,Argentina,,Hispanic or Latino
+Data Analyst,No,0-40k,Tech,Python,7.0,8.0,8.0,8.0,3.0,8.0,Easy,Better Salary,Male,24,Sudan,,Black or African American
+Data Analyst,No,0-40k,Tech,Python,4.0,6.0,6.0,6.0,7.0,7.0,Easy,Good Work/Life Balance,Male,31,India,,Asian or Asian American
+Data Analyst,No,66k-85k,Insurance,SQL,7.0,10.0,5.0,5.0,5.0,2.0,Difficult,Responsibilities,Male,23,United States,,White or Caucasian
+Data Analyst,Yes,106k-125k,Energy,Python,1.0,6.0,9.0,1.0,0.0,2.0,Difficult,Remote Work,Female,33,United States,,Asian or Asian American
+Data Analyst,No,86k-105k,Healthcare,Qlik sense script,6.0,7.0,7.0,7.0,7.0,4.0,Very Easy,Better Salary,Male,43,United States,,White or Caucasian
+Student/Looking/None,Yes,0-40k,Energy,R,0.0,0.0,5.0,0.0,0.0,0.0,Very Difficult,Remote Work,Female,23,Nigeria,,African
+Student/Looking/None,Yes,41k-65k,Finance,Python,10.0,7.0,10.0,10.0,5.0,3.0,Very Difficult,Good Work/Life Balance,Male,31,United States,,Black or African American
+Data Analyst,Yes,66k-85k,Finance,Python,5.0,6.0,7.0,5.0,4.0,4.0,Neither easy nor difficult,Development,Male,31,United Kingdom,,White or Caucasian
+Data Analyst,Yes,0-40k,Other (Please Specify),Python,8.0,7.0,8.0,7.0,7.0,7.0,Difficult,Good Work/Life Balance,Male,25,India,,Asian or Asian American
+Data Engineer,No,125k-150k,Tech,SQL,8.0,10.0,10.0,9.0,9.0,9.0,Easy,Better Salary,Male,43,United States,,White or Caucasian
+Data Analyst,No,41k-65k,Finance,Python,2.0,3.0,5.0,5.0,5.0,5.0,Difficult,Better Salary,Female,26,Canada,,South Asian
+FP&A Analyst,No,41k-65k,Automotive,Python,5.0,10.0,8.0,8.0,8.0,7.0,Neither easy nor difficult,Remote Work,Male,32,Japan,,White or Caucasian
+BI Developer,No,0-40k,Tech,Python,2.0,9.0,7.0,7.0,5.0,6.0,Difficult,Better Salary,Male,31,Greece,,White or Caucasian
+Data Analyst,Yes,86k-105k,Healthcare,SQL,3.0,5.0,6.0,4.0,4.0,5.0,Neither easy nor difficult,Better Salary,Male,29,United States,,White or Caucasian
+Data Analyst,Yes,0-40k,Automotive,Python,3.0,1.0,3.0,2.0,3.0,1.0,Neither easy nor difficult,Good Culture,Male,24,Peru,,Hispanic or Latino
+Student/Looking/None,Yes,41k-65k,Construction,Python,2.0,0.0,2.0,2.0,0.0,0.0,Very Difficult,Remote Work,Male,34,United States,,White or Caucasian
+Data Analyst,Yes,41k-65k,Utilities,Power bi,5.0,6.0,6.0,5.0,4.0,6.0,Very Difficult,Better Salary,Male,42,Australia,,Indian
+Student/Looking/None,Yes,0-40k,Not working yet,JavaScript,0.0,0.0,0.0,0.0,0.0,0.0,Difficult,Remote Work,Female,40,United States,,Asian or Asian American
+Student/Looking/None,No,41k-65k,Telecommunication,Python,3.0,1.0,3.0,4.0,0.0,3.0,Easy,Good Work/Life Balance,Male,43,Spain,,White or Caucasian
+Student/Looking/None,Yes,0-40k,Construction,Python,0.0,0.0,0.0,0.0,0.0,0.0,Very Difficult,Better Salary,Male,23,Kenya,,African
+Student/Looking/None,Yes,0-40k,Education,Python,5.0,5.0,3.0,5.0,2.0,6.0,Difficult,Better Salary,Male,23,Japan,,Asian or Asian American
+Data Analyst,Yes,86k-105k,Manufacturing,Python,8.0,6.0,2.0,3.0,6.0,7.0,Neither easy nor difficult,Strong organizational data strategy & high-performing team,Male,28,United States,,White or Caucasian
+Data Analyst,No,66k-85k,Finance,SQL,5.0,7.0,1.0,1.0,0.0,8.0,Neither easy nor difficult,Better Salary,Male,32,United States,,White or Caucasian
+Data Analyst,Yes,66k-85k,Manufacturing,R,7.0,8.0,10.0,8.0,9.0,9.0,Difficult,Remote Work,Female,41,United States,,White or Caucasian
+Data Analyst,Yes,41k-65k,Finance,Python,5.0,6.0,6.0,6.0,6.0,6.0,Neither easy nor difficult,Remote Work,Male,33,United Kingdom,High School,White or Caucasian
+Business Intelligence Developer,Yes,150k-225k,Tech,Python,10.0,8.0,9.0,8.0,8.0,10.0,Easy,Good Work/Life Balance,Male,38,United States,,Hispanic or Latino
+Data Analyst,No,0-40k,Tech,SQL,8.0,8.0,8.0,8.0,5.0,10.0,Easy,Better Salary,Female,22,India,,Indian
+Student/Looking/None,Yes,0-40k,Not working yet,R,1.0,3.0,6.0,6.0,6.0,9.0,Difficult,Remote Work,Male,36,Barbados,Bachelors,Black or African American
+Data Engineer,No,66k-85k,Finance,Python,2.0,1.0,1.0,1.0,3.0,7.0,Easy,Remote Work,Female,28,United States,Masters,Asian or Asian American
+Student/Looking/None,Yes,0-40k,Not working yet,SQL,,,,,,7.0,Very Easy,Good Work/Life Balance & Better Salary & high-performing team,Male,30,South Africa,,African
+Data Analyst,Yes,66k-85k,Tech,Python,6.0,6.0,6.0,6.0,5.0,6.0,Difficult,Currently very happy with where I am.,Female,24,United States,Bachelors,Hispanic or Latino
+Business Analyst,No,41k-65k,Logistics,C/C++,3.0,6.0,7.0,7.0,0.0,3.0,Very Difficult,Better Salary,Male,29,United States,Bachelors,White or Caucasian
+Data Analyst,No,0-40k,Tech,Python,4.0,9.0,10.0,9.0,9.0,10.0,Easy,Better Salary,Male,29,Colombia,Associates,Hispanic or Latino
+Business Analyst,Yes,41k-65k,Automotive,Python,6.0,8.0,8.0,7.0,9.0,7.0,Neither easy nor difficult,Good Work/Life Balance,Male,38,Germany,Masters,White or Caucasian
+Data Analyst,Yes,0-40k,Finance,None,3.0,5.0,4.0,3.0,3.0,3.0,Difficult,Good Work/Life Balance,Male,31,Bulgaria,Masters,White or Caucasian
+Student/Looking/None,No,0-40k,Tech,Python,1.0,4.0,5.0,5.0,1.0,1.0,Difficult,Better Salary,Male,25,United States,Masters,White or Caucasian
+Data Analyst,No,66k-85k,Telecommunication,Python,4.0,6.0,4.0,5.0,4.0,4.0,Neither easy nor difficult,Better Salary,Male,24,United States,Masters,White or Caucasian
+Business Intelligence Consultant,Yes,41k-65k,Tech,Python,6.0,7.0,4.0,3.0,9.0,8.0,Difficult,Better Salary,Male,28,Turkey,Bachelors,White or Caucasian
+Student/Looking/None,No,0-40k,Tech,Python,7.0,5.0,8.0,0.0,0.0,0.0,Neither easy nor difficult,Good Culture,Female,23,India,Bachelors,Asian or Asian American
+Data Engineer,No,0-40k,Tech,R,2.0,3.0,2.0,5.0,5.0,7.0,Neither easy nor difficult,Remote Work,Male,21,Spain,Masters,Hispanic or Latino
+Data Analyst,No,0-40k,Energy,Python,4.0,4.0,4.0,4.0,5.0,6.0,Neither easy nor difficult,Remote Work,Male,29,France,Bachelors,N/A
+Data Analyst,Yes,41k-65k,Tech,Python,5.0,6.0,7.0,7.0,7.0,6.0,Difficult,Better Salary,Male,25,United States,Bachelors,Asian or Asian American
+Data Analyst,No,41k-65k,Tech,Python,6.0,6.0,6.0,6.0,3.0,5.0,Difficult,Good Culture,Male,27,Germany,Masters,Black or African American
+Data Analyst,Yes,41k-65k,Tech,Python,3.0,9.0,10.0,8.0,9.0,9.0,Easy,Better Salary,Male,23,India,Bachelors,Asian or Asian American
+Sr. Supply Chain Analyst ,No,86k-105k,Beverage and foods,R,4.0,3.0,3.0,5.0,5.0,5.0,Difficult,Better Salary,Male,32,United States,Masters,Asian or Asian American
+Student/Looking/None,Yes,106k-125k,Healthcare,Python,5.0,5.0,7.0,5.0,7.0,7.0,Neither easy nor difficult,Remote Work,Male,22,India,Bachelors,Asian or Asian American
+Data Analyst,No,0-40k,Tech,Python,2.0,9.0,9.0,8.0,6.0,2.0,Easy,Better Salary,Male,25,Thailand,Bachelors,Asian or Asian American
+Data Analyst,Yes,0-40k,Telecommunication,Python,2.0,8.0,6.0,6.0,5.0,5.0,Neither easy nor difficult,Remote Work,Female,36,Germany,Masters,White or Caucasian
+Data Analyst,Yes,106k-125k,Tech,SQL,10.0,6.0,9.0,5.0,8.0,7.0,Easy,Good Work/Life Balance,Female,27,United States,Bachelors,White or Caucasian
+Business Analyst,Yes,0-40k,Tech,Python,5.0,5.0,5.0,5.0,5.0,1.0,Neither easy nor difficult,My passion is to become a Data analyst ,Male,23,India,Bachelors,Asian or Asian American
+Student/Looking/None,Yes,0-40k,Tech,SQL,2.0,3.0,3.0,3.0,3.0,6.0,Very Difficult,Better Salary,Male,26,Netherlands,Bachelors,Black or African American
+Data Analyst,No,86k-105k,Healthcare,Python,9.0,10.0,10.0,10.0,10.0,10.0,Very Easy,Good Work/Life Balance,Female,33,United States,PhD,Hispanic or Latino
+Data Analyst,Yes,106k-125k,Automotive,Python,3.0,5.0,3.0,3.0,5.0,5.0,Easy,Better Salary,Male,27,Turkey,Masters,White or Caucasian
+Data Analyst,Yes,41k-65k,Education,R,3.0,6.0,5.0,4.0,3.0,4.0,Neither easy nor difficult,Better Salary,Male,42,United States,Associates,White or Caucasian
+Data Analyst,Yes,0-40k,Tech,Python,6.0,7.0,8.0,7.0,7.0,8.0,Easy,Good Work/Life Balance,Male,29,Spain,Masters,White or Caucasian
+Data Analyst,No,125k-150k,Tech,Python,4.0,7.0,6.0,4.0,2.0,4.0,Easy,Better Salary,Female,27,United States,Masters,Asian or Asian American
+Student/Looking/None,No,41k-65k,Healthcare,Python,0.0,10.0,10.0,10.0,4.0,2.0,Neither easy nor difficult,Remote Work,Female,39,United States,Bachelors,Hispanic or Latino
+Data Analyst,Yes,41k-65k,Telecommunication,Python,6.0,6.0,7.0,5.0,6.0,7.0,Difficult,Good Culture,Male,31,Denmark,Masters,White or Caucasian
+Data Analyst,Yes,66k-85k,Marketing,Python,7.0,7.0,5.0,9.0,7.0,8.0,Easy,Good Work/Life Balance,Male,29,Brazil,Bachelors,Hispanic or Latino
+Data Analyst,Yes,66k-85k,Education,R,7.0,7.0,7.0,7.0,4.0,7.0,Easy,Remote Work,Male,31,United States,Masters,White or Caucasian
+Data Analyst,Yes,0-40k,Finance,Python,10.0,9.0,9.0,10.0,9.0,10.0,Neither easy nor difficult,Good Culture,Male,30,Mexico,Masters,Hispanic or Latino
+Data Engineer,Yes,0-40k,Tech,Python,7.0,8.0,6.0,5.0,5.0,9.0,Difficult,Better Salary,Male,33,Mexico,Masters,Hispanic or Latino
+Data Analyst,No,66k-85k,Marketing,Python,7.0,8.0,9.0,7.0,7.0,7.0,Neither easy nor difficult,Better Salary,Male,25,United States,Bachelors,White or Caucasian
+Student/Looking/None,No,0-40k,Tech,R,0.0,0.0,0.0,0.0,0.0,0.0,Neither easy nor difficult,Good Work/Life Balance,Male,23,India,Bachelors,Indian
+Data Analyst,Yes,41k-65k,Marketing,None,4.0,4.0,3.0,3.0,5.0,6.0,Very Difficult,Better Salary,Male,33,United States,Bachelors,Asian or Asian American
+Business Analyst,Yes,66k-85k,Logistics,Python,7.0,9.0,9.0,8.0,8.0,9.0,Neither easy nor difficult,Good Work/Life Balance,Male,35,Chile,Bachelors,Hispanic or Latino
+Data Analyst,No,41k-65k,Professional Services,Python,6.0,8.0,5.0,,6.0,9.0,Neither easy nor difficult,Remote Work,Female,42,Greece,Masters,White or Caucasian
+Data Analyst,No,66k-85k,Tech,Python,3.0,4.0,2.0,1.0,0.0,4.0,Neither easy nor difficult,Better Salary,Male,25,United States,Bachelors,White or Caucasian
+Data Analyst,No,86k-105k,Automotive,Python,5.0,4.0,5.0,4.0,3.0,6.0,Neither easy nor difficult,Different job title,Male,23,United States,Bachelors,White or Caucasian
+Learning Management Specialist,No,41k-65k,Healthcare,JavaScript,2.0,4.0,6.0,5.0,3.0,4.0,Easy,Better Salary,Female,51,United States,Bachelors,Black or African American
+Data Analyst,No,0-40k,Telecommunication,Other,1.0,4.0,4.0,3.0,2.0,6.0,Very Difficult,Better Salary,Male,30,United Kingdom,Bachelors,Black or African American
+Data Analyst,Yes,41k-65k,Finance,Python,8.0,9.0,9.0,9.0,9.0,8.0,Very Difficult,Better Salary,Male,23,India,Bachelors,Asian or Asian American
+Research Analyst,Yes,41k-65k,Marketing,R,3.0,5.0,5.0,6.0,3.0,4.0,Neither easy nor difficult,Better Salary,Male,24,Canada,Bachelors,Asian or Asian American
+Student/Looking/None,Yes,41k-65k,Tech,Python,6.0,6.0,6.0,6.0,6.0,6.0,Easy,Good Culture,Male,25,Australia,Masters,Asian or Asian American
+Data Analyst,Yes,41k-65k,Finance,Python,4.0,4.0,6.0,4.0,5.0,6.0,Difficult,Better Salary,Female,55,United States,Masters,N/A
+Data Analyst,No,86k-105k,Biotech,R,8.0,10.0,8.0,7.0,8.0,10.0,Very Easy,Remote Work,Female,30,United States,Masters,White or Caucasian
+Data Analyst,Yes,41k-65k,Consulting,Python,9.0,9.0,9.0,9.0,7.0,4.0,Difficult,Better Salary,Male,25,Canada,Bachelors,Asian or Asian American
+Data Analyst,Yes,66k-85k,Electronics,Python,6.0,9.0,7.0,6.0,7.0,7.0,Neither easy nor difficult,Better Salary,Male,28,United States,Masters,White or Caucasian
+Insights Analyst,Yes,41k-65k,Consulting,Python,8.0,8.0,9.0,9.0,10.0,10.0,Very Easy,Better Salary,Male,34,United Kingdom,Bachelors,White or Caucasian
+Data Analyst,Yes,0-40k,Tech,Python,8.0,10.0,9.0,9.0,10.0,8.0,Neither easy nor difficult,Better Salary,Female,28,Costa Rica,Bachelors,Hispanic or Latino
+Student/Looking/None,No,0-40k,Manufacturing,Other,7.0,9.0,7.0,8.0,8.0,10.0,Neither easy nor difficult,Better Salary,Male,24,Vietnam,Bachelors,Asian or Asian American
+Student/Looking/None,Yes,0-40k,Healthcare,Python,3.0,7.0,7.0,7.0,1.0,2.0,Difficult,Better Salary,Male,31,United States,Masters,Black or African American
+Data Analyst,Yes,41k-65k,Logistics,Excel and SQL,3.0,6.0,6.0,6.0,4.0,4.0,Easy,Better Salary,Male,25,Canada,Bachelors,Asian or Asian American
+Data Analyst,Yes,106k-125k,Finance,Python,5.0,1.0,4.0,3.0,3.0,4.0,Easy,Better Salary,Female,38,United States,Bachelors,White or Caucasian
+Data Analyst,No,41k-65k,Finance,Python,5.0,5.0,5.0,5.0,4.0,5.0,Neither easy nor difficult,Good Culture,Male,30,Netherlands,Bachelors,Hispanic or Latino
+Data Analyst,Yes,0-40k,Tech,C/C++,0.0,0.0,0.0,2.0,2.0,5.0,Neither easy nor difficult,Good Work/Life Balance,Male,25,India,Bachelors,Asian or Asian American
+Data Analyst,Yes,0-40k,Tech,Python,1.0,2.0,1.0,5.0,6.0,6.0,Neither easy nor difficult,Better Salary,Female,29,Nigeria,Bachelors,Black or African American
+Data Scientist,Yes,150k-225k,Finance,Python,7.0,5.0,3.0,6.0,4.0,4.0,Difficult,Good Work/Life Balance,Male,21,Portugal,Masters,White or Caucasian
+Data Analyst,Yes,66k-85k,Logistics,SQL,5.0,8.0,8.0,7.0,6.0,7.0,Very Easy,Remote Work,Female,39,United States,Bachelors,Asian or Asian American
+Student/Looking/None,No,0-40k,Other (Please Specify),Python,0.0,0.0,0.0,0.0,0.0,5.0,Neither easy nor difficult,Better Salary,Male,25,Turkey,Bachelors,White or Caucasian
+Does a social media analyst count?,Yes,86k-105k,Finance,None,7.0,9.0,10.0,6.0,4.0,4.0,Neither easy nor difficult,Opportunity for advancement,Female,42,United States,Masters,Hispanic or Latino
+Data Analyst,No,41k-65k,Tech,R,10.0,8.0,9.0,10.0,10.0,10.0,Easy,Better Salary,Male,25,United States,Bachelors,White or Caucasian
+Data Scientist,No,86k-105k,Finance,Python,8.0,7.0,6.0,6.0,5.0,9.0,Neither easy nor difficult,Better Salary,Male,22,United States,Bachelors,White or Caucasian
+Data Analyst,No,0-40k,Marketing,Python,1.0,4.0,4.0,3.0,,5.0,Easy,Better Salary,Male,23,Colombia,High School,Hispanic or Latino
+Data Engineer,Yes,41k-65k,Marketing,JavaScript,6.0,6.0,6.0,6.0,6.0,6.0,Difficult,Good Culture,Male,25,Egypt,High School,Middleeast
+Data Engineer,Yes,66k-85k,Consulting,Python,5.0,7.0,7.0,6.0,6.0,7.0,Neither easy nor difficult,Better Salary,Male,45,Canada,Masters,White or Caucasian
+Data Analyst,Yes,66k-85k,Healthcare,Excel and SQL,7.0,3.0,8.0,6.0,8.0,8.0,Easy,Good Work/Life Balance,Male,24,United States,Bachelors,White or Caucasian
+Student/Looking/None,No,0-40k,Government,R,1.0,9.0,6.0,0.0,0.0,0.0,Difficult,Better Salary,Male,25,United States,,Black or African American
+Data Analyst,Yes,66k-85k,Marketing,Python,9.0,8.0,9.0,9.0,8.0,8.0,Difficult,Good Work/Life Balance,Male,26,United States,Bachelors,White or Caucasian
+Data Analyst,No,41k-65k,Tech,R,4.0,7.0,8.0,8.0,5.0,7.0,Easy,Better Salary,Male,23,Canada,Bachelors,Asian or Asian American
+Student/Looking/None,Yes,0-40k,Culture,Python,1.0,1.0,1.0,0.0,0.0,3.0,Difficult,Remote Work,Female,42,United Kingdom,Masters,White or Caucasian
+Educator,Yes,41k-65k,Education,None,0.0,0.0,2.0,0.0,0.0,0.0,Very Difficult,Good Work/Life Balance,Female,42,United States,Bachelors,Black or African American
+Business Analyst,No,0-40k,Tech,Python,0.0,6.0,5.0,5.0,3.0,1.0,Neither easy nor difficult,Better Salary,Male,25,India,Masters,Asian or Asian American
+Data Analyst,Yes,86k-105k,Tech,R,8.0,10.0,10.0,10.0,2.0,7.0,Easy,Remote Work,Male,38,United States,Masters,White or Caucasian
+Business Intelligence Engineer,No,0-40k,Tech,Python,5.0,6.0,6.0,6.0,6.0,4.0,Easy,Better Salary,Male,24,Costa Rica,Bachelors,Hispanic or Latino
+Data Analyst,Yes,66k-85k,Education,R,7.0,10.0,10.0,10.0,8.0,10.0,Neither easy nor difficult,Good Work/Life Balance,Male,28,United States,Bachelors,White or Caucasian
+Data Analyst,No,41k-65k,Healthcare,Python,1.0,2.0,8.0,7.0,0.0,0.0,Difficult,Better Salary,Male,21,United States,Bachelors,Asian or Asian American
+Data Analyst,Yes,106k-125k,Healthcare,R,10.0,10.0,10.0,10.0,10.0,10.0,Very Easy,Good Culture,Male,39,United States,Masters,White or Caucasian
+Data Analyst,Yes,0-40k,Tech,Python,4.0,5.0,5.0,5.0,6.0,8.0,Difficult,Good Work/Life Balance,Male,23,Pakistan,Bachelors,Asian or Asian American
+Data Analyst,No,0-40k,Government,R,1.0,6.0,4.0,3.0,5.0,6.0,Neither easy nor difficult,Good Work/Life Balance,Female,23,Australia,Bachelors,White or Caucasian
+Data Analyst,Yes,66k-85k,Logistics,R,8.0,9.0,8.0,7.0,7.0,8.0,Neither easy nor difficult,Good Work/Life Balance,Male,30,United States,Masters,White or Caucasian
+Data Analyst,No,41k-65k,Manufacturing,Python,2.0,6.0,2.0,3.0,2.0,2.0,Easy,Better Salary,Male,26,Ireland,Masters,White or Caucasian
+Data Analyst,Yes,41k-65k,Healthcare,R,3.0,6.0,4.0,6.0,4.0,6.0,Neither easy nor difficult,Better Salary,Male,37,United States,Bachelors,White or Caucasian
+Data Analyst,Yes,66k-85k,Healthcare,Python,3.0,5.0,4.0,5.0,4.0,4.0,Neither easy nor difficult,Better Salary,Female,31,United States,Bachelors,White or Caucasian
+Data Analyst,Yes,0-40k,Finance,C/C++,5.0,2.0,4.0,3.0,3.0,3.0,Difficult,Good Work/Life Balance,Female,25,South Africa,Bachelors,Black or African American
+Data Analyst,Yes,0-40k,Healthcare,Python,2.0,6.0,6.0,5.0,4.0,5.0,Easy,Better Salary,Female,26,Poland,Bachelors,White or Caucasian
+Data Analyst,Yes,66k-85k,Healthcare,SQL,7.0,8.0,8.0,8.0,8.0,7.0,Very Easy,Better Salary,Male,30,United States,Bachelors,White or Caucasian
+Data Analyst,Yes,66k-85k,Tech,Python,9.0,10.0,10.0,10.0,7.0,9.0,Neither easy nor difficult,Better Salary,Female,39,United States,Bachelors,Black or African American
+Research Associate ,No,0-40k,Education,Python,1.0,1.0,1.0,0.0,0.0,2.0,Easy,Good Work/Life Balance,Female,28,India,Masters,Asian or Asian American
+Data Analyst,Yes,66k-85k,Finance,SQL,8.0,8.0,7.0,7.0,10.0,10.0,Very Easy,Good Work/Life Balance,Male,22,United States,Bachelors,Mixed ( Caucasian / African-American )
+Data Analyst,Yes,0-40k,Telecommunication,Python,3.0,2.0,4.0,2.0,2.0,2.0,Neither easy nor difficult,Good Culture,Male,28,Mozambique,Bachelors,Black or African American
+Data Analyst,No,150k-225k,Tech,R,8.0,10.0,9.0,7.0,5.0,5.0,Neither easy nor difficult,Remote Work,Male,33,United States,Masters,White or Caucasian
+Data Analyst,Yes,0-40k,Finance,SQL,2.0,3.0,3.0,3.0,2.0,4.0,Neither easy nor difficult,Good Work/Life Balance,Female,22,Egypt,Bachelors,Half Asian half African 
+Student/Looking/None,No,0-40k,Tech,Python,3.0,5.0,5.0,4.0,4.0,5.0,Neither easy nor difficult,Better Salary,Male,27,India,Bachelors,Brown
+Data Analyst,Yes,106k-125k,Construction,DAX,8.0,8.0,8.0,8.0,10.0,10.0,Easy,Good Work/Life Balance,Male,37,United States,Bachelors,N/A
+Business Analyst,No,41k-65k,Logistics,R,3.0,4.0,5.0,5.0,4.0,3.0,Difficult,Better Salary,Male,24,United States,Masters,White or Caucasian
+Data Analyst,No,41k-65k,Healthcare,R,1.0,4.0,3.0,2.0,0.0,6.0,Difficult,Better Salary,Male,25,United Kingdom,Masters,Asian or Asian American
+Data Engineer,No,86k-105k,Healthcare,R,8.0,10.0,8.0,8.0,9.0,10.0,Neither easy nor difficult,Good Culture,Male,28,United States,Masters,Black or African American
+Data Analyst,Yes,41k-65k,Energy,Python,5.0,5.0,7.0,7.0,7.0,7.0,Easy,Better Salary,Male,32,United Kingdom,Bachelors,White or Caucasian
+Data Analyst,Yes,41k-65k,Government,Python,0.0,7.0,7.0,7.0,0.0,7.0,Easy,Good Culture,Male,29,United States,Bachelors,Asian or Asian American
+Data Analyst,No,41k-65k,Healthcare,R,7.0,5.0,8.0,6.0,5.0,10.0,Difficult,"Want to move from Australia to Canada, so position in desired country ",Female,26,Australia,Masters,White or Caucasian
+Data Engineer,Yes,41k-65k,Tech,Python,0.0,7.0,5.0,0.0,0.0,7.0,Neither easy nor difficult,Remote Work,Male,37,Canada,Masters,White or Caucasian
+Data Analyst,No,41k-65k,Logistics,R,4.0,6.0,5.0,4.0,5.0,6.0,Neither easy nor difficult,Better Salary,Male,25,United States,Bachelors,White or Caucasian
+Data Analyst,No,0-40k,Finance,SQL,4.0,4.0,5.0,6.0,6.0,0.0,Difficult,Better Salary,Male,24,Israel,High School,White or Caucasian
+Data Analyst,No,125k-150k,Finance,SQL,7.0,8.0,8.0,8.0,7.0,8.0,Easy,Better Salary,Male,52,United States,Bachelors,White or Caucasian
+Data Analyst,Yes,41k-65k,Finance,Python,6.0,10.0,3.0,5.0,0.0,10.0,Difficult,Good Culture,Male,27,Singapore,Bachelors,Asian or Asian American
+Data Analyst,No,106k-125k,Healthcare,Other,6.0,6.0,3.0,3.0,3.0,3.0,Neither easy nor difficult,Better Salary,Female,29,United States,Masters,White or Caucasian
+Student/Looking/None,No,0-40k,Tech,Python,3.0,7.0,6.0,7.0,0.0,0.0,Difficult,Better Salary,Male,42,Brazil,Associates,White or Caucasian
+Data Analyst,Yes,41k-65k,Telecommunication,R,3.0,5.0,6.0,4.0,3.0,7.0,Difficult,All of the above,Male,28,United States,Masters,White or Caucasian
+Data Analyst,Yes,0-40k,Tech,Python,8.0,8.0,8.0,8.0,8.0,9.0,Neither easy nor difficult,Good Work/Life Balance,Male,44,Costa Rica,Bachelors,Hispanic or Latino
+Data Engineer,Yes,0-40k,Tech,Python,5.0,5.0,6.0,5.0,6.0,7.0,Neither easy nor difficult,Remote Work,Male,23,Spain,Bachelors,White or Caucasian
+Data Analyst,No,41k-65k,Entertainment,R,1.0,2.0,6.0,4.0,2.0,0.0,Easy,Better Salary,Male,27,United States,Bachelors,Hispanic or Latino
+Data Analyst,No,66k-85k,Construction,Python,3.0,3.0,3.0,2.0,2.0,1.0,Neither easy nor difficult,Good Culture,Male,26,United States,Masters,White or Caucasian
+Data Analyst,Yes,86k-105k,Healthcare,VBA,3.0,4.0,4.0,4.0,1.0,3.0,Neither easy nor difficult,Better Salary,Male,27,United States,Masters,Hispanic or Latino
+Data Analyst,Yes,66k-85k,Marketing,Python,0.0,0.0,7.0,1.0,0.0,9.0,Difficult,Better Salary,Male,33,Canada,Bachelors,Asian or Asian American
+Data Analyst,Yes,66k-85k,Aviation,Python,8.0,10.0,10.0,10.0,10.0,10.0,Easy,Better Salary,Male,28,United States,Bachelors,Hispanic or Latino
+Data Analyst,Yes,0-40k,Tech,R,2.0,8.0,8.0,7.0,6.0,9.0,Neither easy nor difficult,Better Salary,Male,32,Kenya,Bachelors,Black or African American
+Student/Looking/None,Yes,41k-65k,Beverage and foods,Python,2.0,4.0,6.0,1.0,1.0,1.0,Very Difficult,Better Salary,Male,34,Canada,Associates,Asian or Asian American
+Data Analyst,No,150k-225k,Tech,Python,10.0,10.0,10.0,8.0,10.0,10.0,Easy,Good Work/Life Balance,Male,28,United States,Bachelors,Asian or Asian American
+Data Scientist,Yes,125k-150k,Telecommunication,Python,2.0,4.0,1.0,3.0,1.0,7.0,Neither easy nor difficult,Better Salary,Male,27,India,Bachelors,Indian
+Data Engineer,Yes,41k-65k,Finance,Python,2.0,4.0,5.0,5.0,4.0,6.0,Difficult,Better Salary,Male,22,United States,Bachelors,White or Caucasian
+Data Analyst,No,66k-85k,Healthcare,Python,3.0,3.0,4.0,1.0,2.0,2.0,Neither easy nor difficult,Better Salary,Male,29,United States,Masters,White or Caucasian
+Data Analyst,No,66k-85k,Healthcare,Python,8.0,10.0,10.0,8.0,5.0,7.0,Neither easy nor difficult,Good Work/Life Balance,Female,31,United States,Masters,White or Caucasian
+Data Analyst,No,66k-85k,Tech,Python,4.0,5.0,5.0,5.0,4.0,4.0,Easy,Remote Work,Male,28,United States,Bachelors,White or Caucasian
+Student/Looking/None,No,0-40k,Healthcare,Python,0.0,0.0,0.0,0.0,0.0,0.0,Neither easy nor difficult,Good Work/Life Balance,Male,24,United States,Masters,Asian or Asian American
+Data Analyst,No,86k-105k,Government,Stata,4.0,5.0,3.0,4.0,2.0,3.0,Easy,Good Culture,Male,34,United States,Masters,White or Caucasian
+Data Engineer,No,86k-105k,Tech,Python,5.0,3.0,5.0,5.0,4.0,5.0,Difficult,Better Salary,Male,23,United States,Bachelors,White or Caucasian
+Student/Looking/None,No,41k-65k,Construction,Excel,10.0,4.0,10.0,10.0,4.0,10.0,Neither easy nor difficult,Remote Work,Male,32,Belgium,Masters,White or Caucasian
+Data Analyst,Yes,0-40k,Healthcare,R,6.0,8.0,6.0,6.0,8.0,10.0,Easy,Remote Work,Male,29,Argentina,High School,Hispanic or Latino
+Data Analyst,Yes,0-40k,Education,Python,0.0,0.0,0.0,0.0,0.0,0.0,Very Difficult,Better Salary,Male,34,Nigeria,Bachelors,Black or African American
+Data Analyst,No,66k-85k,Finance,Python,7.0,5.0,5.0,7.0,9.0,10.0,Very Easy,Remote Work,Male,24,United Kingdom,Bachelors,White or Caucasian
+Data Analyst,No,66k-85k,Tech,Python,0.0,10.0,6.0,0.0,0.0,0.0,Difficult,Better Salary,Male,30,United States,Bachelors,Indian
+Analytics Engineer,No,86k-105k,Entertainment,Python,5.0,5.0,6.0,4.0,5.0,5.0,Difficult,Better Salary,Male,24,United States,Masters,Hispanic or Latino
+Data Analyst,Yes,41k-65k,Insurance,Python,6.0,8.0,10.0,9.0,7.0,9.0,Easy,Better Salary,Male,27,United States,Bachelors,N/A
+Data Analyst,No,0-40k,Finance,Python,1.0,2.0,4.0,4.0,4.0,5.0,Neither easy nor difficult,Better Salary,Male,21,India,Bachelors,Asian or Asian American
+Data Analyst,No,0-40k,Logistics,Python,3.0,5.0,9.0,9.0,,8.0,Very Difficult,Good Work/Life Balance and Good Culture,Male,31,United Arab Emirates,Masters,Black or African American
+Data Analyst,Yes,0-40k,Telecommunication,R,5.0,7.0,5.0,5.0,5.0,7.0,Difficult,Better Salary,Male,41,Egypt,Bachelors,White or Caucasian
+Data Analyst,Yes,0-40k,Tech,Python,0.0,1.0,1.0,0.0,0.0,2.0,Difficult,Better Salary,Male,25,India,Bachelors,Asian or Asian American
+Data Analyst,No,0-40k,Finance,None,4.0,7.0,8.0,8.0,8.0,9.0,Neither easy nor difficult,Opportunities for growth & Better Salary,Male,24,Nigeria,Bachelors,Black or African American
+Data Analyst,No,0-40k,Finance,Python,6.0,5.0,6.0,5.0,6.0,6.0,Neither easy nor difficult,Better Salary,Male,30, Somalia,Masters,African
+Data Analyst,No,150k-225k,Finance,Other,7.0,7.0,7.0,,5.0,7.0,Neither easy nor difficult,Good Work/Life Balance,Male,33,United States,Bachelors,White or Caucasian
+Data Analyst,No,66k-85k,Energy,Alteryx,7.0,4.0,10.0,9.0,7.0,10.0,Difficult,Better Salary,Male,23,United States,Bachelors,Hispanic or Latino
+Data Analyst,Yes,66k-85k,Tech,Python,6.0,6.0,6.0,6.0,6.0,6.0,Difficult,Remote Work,Female,33,United Kingdom,Masters,Asian or Asian American
+Data Analyst,No,106k-125k,Finance,Python,4.0,4.0,4.0,4.0,4.0,4.0,Neither easy nor difficult,Better Salary,Male,25,United States,Bachelors,White or Caucasian
+Data Analyst,No,0-40k,Researcher,Python,5.0,5.0,5.0,5.0,5.0,5.0,Neither easy nor difficult,Remote Work,Female,27,Kosovo,Masters,White or Caucasian
+Data Analyst,Yes,0-40k,Finance,C/C++,5.0,10.0,10.0,8.0,10.0,10.0,Very Easy,Good Work/Life Balance,Male,30,United Kingdom,Bachelors,White or Caucasian
+Data Analyst,Yes,0-40k,Tech,Python,0.0,3.0,,,,6.0,Neither easy nor difficult,Remote Work,Male,29,Nigeria,Bachelors,Black or African American
+Analyst Primary Market Intelligence,Yes,0-40k,Healthcare,Python,10.0,2.0,8.0,5.0,0.0,6.0,Easy,Better Salary,Male,25,India,Masters,Indian
+Data Analyst,No,86k-105k,Telecommunication,None,7.0,7.0,5.0,7.0,7.0,7.0,Easy,Remote Work,Male,40,United States,High School,Hispanic or Latino
+Data Analyst,No,41k-65k,Government,Other,6.0,10.0,8.0,8.0,4.0,4.0,Neither easy nor difficult,Better Salary,Female,29,Canada,Bachelors,Other (Please Specify)
+Data Analyst,No,41k-65k,Other (Please Specify),Python,0.0,3.0,3.0,3.0,3.0,,Difficult,Remote Work,Male,29,India,Masters,Asian or Asian American
+Data Analyst,Yes,0-40k,Education,Python,1.0,2.0,2.0,3.0,3.0,4.0,Neither easy nor difficult,Better Salary,Male,28,Nigeria,Masters,Black or African American
+Software Engineer,No,86k-105k,Hospitality,c#,5.0,2.0,0.0,2.0,0.0,0.0,Neither easy nor difficult,Good Work/Life Balance,Male,34,United Kingdom,Bachelors,White or Caucasian
+Student/Looking/None,No,0-40k,Tech,Python,0.0,4.0,7.0,6.0,7.0,8.0,Easy,Learning possibilities,Male,24,Belgium,Masters,White or Caucasian
+Data Analyst,Yes,0-40k,Telecommunication,Python,5.0,8.0,8.0,9.0,7.0,9.0,Very Easy,Better Salary,Male,26,Iraq,Bachelors,Kurdish
+Data Analyst,No,125k-150k,Tech,Python,10.0,5.0,10.0,10.0,6.0,10.0,Difficult,Good Work/Life Balance,Male,28,United States,Bachelors,Hispanic or Latino
+Student/Looking/None,No,0-40k,Education,R,5.0,4.0,4.0,4.0,5.0,5.0,Difficult,Good Work/Life Balance,Male,25,Germany,Masters,White or Caucasian
+Data Analyst,Yes,0-40k,Tech,Python,1.0,4.0,9.0,7.0,8.0,10.0,Easy,Better Salary,Male,33,Colombia,Bachelors,Hispanic or Latino
+Data Analyst,Yes,66k-85k,Finance,Python,4.0,4.0,6.0,3.0,4.0,0.0,Neither easy nor difficult,Remote Work,Male,30,Ireland,Masters,White or Caucasian
+Data Analyst,Yes,0-40k,Finance,Python,1.0,1.0,1.0,1.0,1.0,1.0,Very Difficult,Better Salary,Male,35,India,Bachelors,Indian
+Data Analyst,No,0-40k,Automotive,None,5.0,2.0,5.0,5.0,3.0,4.0,Difficult,Better Salary,Male,25,Romania,Bachelors,White or Caucasian
+Data Analyst,No,0-40k,Real Estate,Python,4.0,7.0,9.0,5.0,2.0,8.0,Easy,Better Salary,Male,23,Spain,Bachelors,White or Caucasian
+Data Engineer,No,0-40k,Healthcare,Python,6.0,6.0,6.0,5.0,4.0,7.0,Neither easy nor difficult,Good Work/Life Balance,Male,24,Mexico,Bachelors,Hispanic or Latino
+Data Analyst,Yes,150k-225k,Education,SQL,8.0,9.0,9.0,7.0,6.0,6.0,Neither easy nor difficult,Better Salary,Male,27,United States,Masters,Black or African American
+Data Analyst,Yes,66k-85k,Manufacturing,Python,4.0,10.0,10.0,8.0,5.0,6.0,Neither easy nor difficult,Remote Work,Male,32,United States,Bachelors,Asian or Asian American
+Data Analyst,Yes,41k-65k,Tech,Python,3.0,5.0,4.0,4.0,4.0,4.0,Neither easy nor difficult,Good Work/Life Balance,Male,50,Canada,Bachelors,White or Caucasian
+Data Architect,Yes,66k-85k,Agriculture,Python,7.0,7.0,8.0,9.0,10.0,10.0,Neither easy nor difficult,Remote Work,Male,29,United States,High School,White or Caucasian
+Data Analyst,Yes,0-40k,Telecommunication,R,2.0,8.0,7.0,6.0,5.0,6.0,Neither easy nor difficult,Good Work/Life Balance,Male,41,Peru,Bachelors,Hispanic or Latino
+Data Integrity,No,0-40k,Renewable Resources,R,1.0,7.0,7.0,1.0,4.0,10.0,Neither easy nor difficult,Better Salary,Male,23,United States,Associates,White or Caucasian
+Data Analyst,Yes,0-40k,Finance,Python,4.0,7.0,8.0,7.0,8.0,8.0,Difficult,Better Salary,Male,31,Nigeria,Bachelors,Black or African American
+Data Analyst,No,0-40k,Healthcare,Python,0.0,10.0,10.0,10.0,10.0,10.0,Difficult,Better Salary,Male,22,Philippines,Bachelors,Native Hawaiian or other Pacific Islander
+Data Analyst,No,66k-85k,Finance,Python,3.0,5.0,5.0,5.0,3.0,3.0,Very Difficult,Better Salary,Male,29,United States,Masters,Hispanic or Latino
+Data Scientist,Yes,0-40k,Tech,Python,4.0,4.0,4.0,0.0,0.0,6.0,Difficult,Good Culture,Male,23,Malaysia,Bachelors,Indian
+Student/Looking/None,No,0-40k,Marketing,None,0.0,0.0,1.0,1.0,0.0,1.0,Neither easy nor difficult,Remote Work,Female,24,United States,High School,Hispanic or Latino
+Data Analyst,Yes,66k-85k,Manufacturing,Python,5.0,9.0,10.0,10.0,5.0,10.0,Neither easy nor difficult,Better Salary,Male,26,United States,Bachelors,Black or African American
+Student/Looking/None,Yes,0-40k,Finance,Python,4.0,3.0,5.0,2.0,2.0,3.0,Difficult,Good Culture,Male,31,India,Bachelors,Asian or Asian American
+Data Analyst,Yes,0-40k,Sports,Python,1.0,1.0,1.0,1.0,7.0,9.0,Neither easy nor difficult,Remote Work,Male,22,Nigeria,Bachelors,Black or African American
+Data Analyst,Yes,66k-85k,Marketing,Python,7.0,8.0,10.0,8.0,7.0,5.0,Neither easy nor difficult,Remote Work,Male,31,Germany,Bachelors,White or Caucasian
+Student/Looking/None,Yes,0-40k,Tech,Python,0.0,4.0,0.0,0.0,4.0,5.0,Neither easy nor difficult,Better Salary,Male,27,United States,Masters,Asian or Asian American
+Student/Looking/None,No,0-40k,Student,Python,1.0,1.0,2.0,1.0,1.0,1.0,Difficult,Better Salary,Female,25,United States,Bachelors,Asian or Asian American
+Data Analyst,Yes,0-40k,Healthcare,Python,4.0,10.0,10.0,8.0,8.0,10.0,Easy,Good Work/Life Balance,Male,30,Colombia,Masters,Hispanic or Latino
+Data Analyst,Yes,41k-65k,Healthcare,R,0.0,6.0,5.0,6.0,0.0,2.0,Easy,Opportunities for growth,Male,28,United States,Masters,Hispanic or Latino
+Data Analyst,No,125k-150k,Finance,Python,6.0,6.0,5.0,4.0,2.0,4.0,Easy,Remote Work,Male,26,United States,Bachelors,White or Caucasian
+Data Scientist,Yes,125k-150k,Marketing,Python,6.0,7.0,7.0,10.0,6.0,7.0,Neither easy nor difficult,Remote Work,Female,32,United States,Masters,White or Caucasian
+Data Analyst,Yes,0-40k,Marketing,SQL,3.0,5.0,6.0,4.0,6.0,6.0,Neither easy nor difficult,Better Salary,Female,40,Poland,PhD,White or Caucasian
+Data Engineer,Yes,0-40k,Manufacturing,Python,4.0,7.0,7.0,6.0,8.0,7.0,Neither easy nor difficult,Better Salary,Male,36,Singapore,Associates,Asian or Asian American
+Data Analyst,Yes,66k-85k,Finance,Python,6.0,10.0,9.0,9.0,9.0,10.0,Difficult,Better Salary,Male,35,United States,Bachelors,Hispanic or Latino
+Data Analyst,Yes,66k-85k,Tech,Python,3.0,4.0,4.0,4.0,5.0,5.0,Very Difficult,Good Work/Life Balance,Male,29,United States,Masters,Asian or Asian American
+Data Analyst,No,41k-65k,Finance,Python,6.0,5.0,9.0,9.0,7.0,5.0,Neither easy nor difficult,Different job title,Female,25,Germany,Masters,Hispanic or Latino
+Database Developer,Yes,41k-65k,Hospitality,Python,6.0,8.0,8.0,9.0,6.0,8.0,Difficult,Remote Work,Male,29,United States,Bachelors,White or Caucasian
+Data Analyst,No,86k-105k,Agriculture,Python,7.0,6.0,7.0,4.0,5.0,8.0,Difficult,Good Work/Life Balance,Male,26,United States,Bachelors,Black or African American
+Data Analyst,No,0-40k,Marketing,R,1.0,1.0,1.0,1.0,1.0,1.0,Neither easy nor difficult,Remote Work,Male,34,Ghana,Bachelors,Black or African American
+Data Analyst,Yes,0-40k,Finance,Python,5.0,2.0,5.0,4.0,3.0,5.0,Neither easy nor difficult,Good Work/Life Balance,Male,26,Egypt,Bachelors,White or Caucasian
+Data Analyst,No,0-40k,Tech,Python,3.0,3.0,5.0,4.0,3.0,2.0,Difficult,Opportunity for advancement,Female,22,India,Bachelors,Asian or Asian American
+Student/Looking/None,Yes,0-40k,Construction,Python,0.0,2.0,0.0,1.0,1.0,2.0,Very Difficult,Remote Work,Female,24,Kenya,Bachelors,Black or African American
+Data Analyst,No,0-40k,Healthcare,Python,3.0,6.0,6.0,6.0,4.0,3.0,Neither easy nor difficult,Better Salary,Male,26,Costa Rica,Bachelors,Hispanic or Latino
+Data Architect,Yes,0-40k,Finance,Python,5.0,6.0,2.0,3.0,3.0,5.0,Very Difficult,Good Work/Life Balance,Female,34,Portugal,Masters,White or Caucasian
+Data Analyst,No,0-40k,Tech,Python,3.0,5.0,4.0,5.0,4.0,2.0,Neither easy nor difficult,Better Salary,Male,29,India,Bachelors,Asian or Asian American
+Data Scientist,No,0-40k,Tech,R,2.0,7.0,7.0,7.0,7.0,7.0,Easy,Better Salary,Male,21,Nigeria,Bachelors,Black or African American
+Financial Analyst,No,0-40k,Management,Python,2.0,4.0,5.0,3.0,1.0,1.0,Neither easy nor difficult,Good Work/Life Balance,Female,35,Macedonia,Masters,White or Caucasian
+Data Analyst,No,41k-65k,Education,Python,7.0,7.0,8.0,8.0,6.0,7.0,Neither easy nor difficult,Good Work/Life Balance,Male,26,United States,Bachelors,Black or African American
+Data Analyst,Yes,41k-65k,Logistics,Python,2.0,4.0,7.0,10.0,5.0,10.0,Neither easy nor difficult,Remote Work,Male,28,United States,Bachelors,White or Caucasian
+Database Manager,No,41k-65k,Agriculture,Python,1.0,5.0,5.0,1.0,0.0,3.0,Easy,Better Salary,Female,33,United States,Bachelors,White or Caucasian
+Data Analyst,Yes,66k-85k,Consulting,SQL,7.0,6.0,5.0,7.0,4.0,4.0,Easy,Better Salary,Female,56,United States,Bachelors,White or Caucasian
+Software Developer ,No,0-40k,Insurance,Python,3.0,3.0,6.0,5.0,,4.0,Difficult,Good Work/Life Balance,Male,23,India,Bachelors,Asian or Asian American
+Data Scientist,Yes,125k-150k,Healthcare,Python,4.0,5.0,5.0,5.0,4.0,5.0,Difficult,Better Salary,Male,28,United States,Masters,White or Caucasian
+Student/Looking/None,No,0-40k,None,JavaScript,0.0,0.0,0.0,0.0,0.0,10.0,Neither easy nor difficult,Remote Work,Male,21,Egypt,High School,White or Caucasian
+Student/Looking/None,No,66k-85k,Social work ,Python,2.0,2.0,4.0,1.0,2.0,1.0,Neither easy nor difficult,Good Work/Life Balance,Male,35,United States,Masters,Black or African American
+Data Analyst,No,41k-65k,Healthcare,Python,7.0,5.0,9.0,9.0,9.0,8.0,Neither easy nor difficult,Remote Work,Male,29,Iran,Masters,Asian or Asian American
+Data Analyst,No,86k-105k,Tech,Python,9.0,10.0,8.0,8.0,7.0,7.0,Neither easy nor difficult,Projects Im interested in,Female,23,United States,Bachelors,Asian or Asian American
+Tableau admin,No,41k-65k,Finance,Python,3.0,3.0,3.0,0.0,0.0,1.0,Difficult,Good Work/Life Balance,Male,25,India,Bachelors,Asian or Asian American
+Data Engineer,Yes,86k-105k,Marketing,Python,8.0,7.0,10.0,9.0,10.0,10.0,Easy,Better Salary,Male,27,United States,Masters,White or Caucasian
+Data Analyst,No,0-40k,Tech,Python,3.0,8.0,7.0,5.0,8.0,7.0,Neither easy nor difficult,Better Salary,Male,22,India,Bachelors,Indian
+Data Analyst,Yes,0-40k,Tech,Python,6.0,3.0,5.0,7.0,5.0,7.0,Neither easy nor difficult,Good Work/Life Balance,Male,22,India,Bachelors,Asian or Asian American
+Other (Please Specify),No,106k-125k,Other (Please Specify),JavaScript,7.0,7.0,4.0,5.0,5.0,4.0,Neither easy nor difficult,Better Salary,Male,43,United States,Masters,Asian or Asian American
+Reporting Adm,Yes,0-40k,Tech,Python,3.0,5.0,8.0,4.0,5.0,5.0,Difficult,Better Salary,Female,32,United States,Bachelors,Asian or Asian American
+Student/Looking/None,Yes,66k-85k,Healthcare,Other,,,,,,0.0,Difficult,Good Work/Life Balance,Female,42,United States,Masters,Asian or Asian American
+Billing analyst,No,66k-85k,Legal,Python,4.0,6.0,2.0,3.0,3.0,2.0,Very Difficult,Remote Work,Male,31,United States,Bachelors,Hispanic or Latino
+Data Engineer,No,0-40k,Marketing,Python,0.0,10.0,10.0,5.0,0.0,3.0,Neither easy nor difficult,Better Salary,Male,25,United Kingdom,Bachelors,White or Caucasian
+Data Analyst,No,41k-65k,Agriculture,SQL,3.0,5.0,5.0,5.0,3.0,2.0,Neither easy nor difficult,Better Salary,Female,25,United States,Masters,Asian or Asian American
+Data Analyst,Yes,106k-125k,Aviation,SAS,9.0,9.0,9.0,6.0,9.0,8.0,Difficult,Good Work/Life Balance,Male,31,United States,Masters,Asian or Asian American
+Data Scientist,Yes,0-40k,Education,Python,3.0,3.0,1.0,1.0,1.0,6.0,Difficult,Better Salary,Male,36,Morocco,Masters,White or Caucasian
+I work with data tools and can create simple dashboards but I am not a data scientist,No,41k-65k,Healthcare,Python,6.0,8.0,8.0,8.0,8.0,10.0,Neither easy nor difficult,Good Work/Life Balance,Female,35,Bulgaria,Masters,White or Caucasian
+Data Analyst,Yes,66k-85k,Utilities,R,6.0,10.0,10.0,10.0,9.0,8.0,Easy,Remote Work,Male,28,United States,Bachelors,White or Caucasian
+Data Analyst,No,0-40k,Professional Services,Python,8.0,8.0,9.0,9.0,8.0,7.0,Neither easy nor difficult,Better Salary,Male,27,Peru,Bachelors,Hispanic or Latino
+Data Analyst,Yes,0-40k,Sports,Python,7.0,4.0,7.0,4.0,8.0,10.0,Easy,Good Work/Life Balance,Male,25,Costa Rica,Bachelors,Hispanic or Latino
+Data Analyst,No,0-40k,Marketing,Python,6.0,6.0,10.0,8.0,6.0,8.0,Neither easy nor difficult,Better Salary,Male,25,Poland,Bachelors,White or Caucasian
+Marketing Data Specialist,No,41k-65k,Marketing,R,5.0,5.0,5.0,5.0,5.0,5.0,Difficult,Good Work/Life Balance,Male,22,United States,Masters,White or Caucasian
+Data Analyst,Yes,41k-65k,Healthcare,None,7.0,8.0,8.0,4.0,6.0,8.0,Neither easy nor difficult,Good Culture,Male,38,Germany,High School,White or Caucasian
+Data Analyst,Yes,0-40k,Education,Python,0.0,0.0,5.0,0.0,0.0,0.0,Difficult,Good Culture,Male,27,Kenya,Bachelors,Black or African American
+Data Analyst,Yes,86k-105k,Consulting,None,4.0,4.0,2.0,2.0,2.0,2.0,Easy,Remote Work,Female,34,Canada,Bachelors,Black or African American
+Data Analyst,Yes,66k-85k,Nonprofit,Python,9.0,10.0,10.0,9.0,8.0,10.0,Difficult,Better Salary,Female,31,United States,Bachelors,White or Caucasian
+Data Analyst,Yes,41k-65k,Tech,Python,4.0,9.0,8.0,8.0,6.0,10.0,Neither easy nor difficult,Better Salary,Female,33,Canada,Masters,Black or African American
+Student/Looking/None,Yes,0-40k,Tech,Python,2.0,5.0,5.0,5.0,5.0,5.0,Very Difficult,Remote Work,Male,23,United States,Bachelors,Asian or Asian American
+Data Analyst,Yes,41k-65k,Healthcare,Excel,3.0,10.0,9.0,10.0,5.0,0.0,Neither easy nor difficult,Better Salary,Female,25,United States,Bachelors,Asian or Asian American
+Data Analyst,Yes,0-40k,Tech,Python,4.0,4.0,4.0,5.0,2.0,1.0,Difficult,Better Salary,Male,29,Iran,Masters,White or Caucasian
+Analytics Engineer,Yes,41k-65k,Healthcare,R,5.0,7.0,9.0,8.0,8.0,8.0,Neither easy nor difficult,Better Salary,Female,29,United States,Masters,Black or African American
+Data Analyst,Yes,0-40k,Tech,R,3.0,4.0,4.0,4.0,4.0,2.0,Easy,Better Salary,Male,31,India,Masters,Asian or Asian American
+Student/Looking/None,No,0-40k,Real Estate,R,0.0,5.0,0.0,0.0,0.0,0.0,Very Difficult,Remote Work,Male,34,South Africa,High School,Black or African American
+Data Analyst,Yes,0-40k,Tech,Python,3.0,2.0,4.0,3.0,7.0,8.0,Easy,Good Work/Life Balance,Male,26,Bangladesh ,Bachelors,Bangladeshi
+Data Scientist,No,86k-105k,Healthcare,Python,4.0,6.0,5.0,6.0,6.0,4.0,Neither easy nor difficult,Remote Work,Female,26,United States,Bachelors,White or Caucasian
+Continuous Quality Improvement Specialist,Yes,41k-65k,Law Enforcement,DAX,3.0,6.0,9.0,6.0,5.0,10.0,Difficult,Mentorship from leading Data Analyst,Male,27,United States,Masters,Black or African American
+Data Analyst,Yes,66k-85k,Logistics,Python,8.0,5.0,9.0,6.0,6.0,10.0,Neither easy nor difficult,Remote Work,Male,26,United States,Bachelors,White or Caucasian
+Student/Looking/None,Yes,0-40k,Tech,Python,4.0,5.0,4.0,4.0,3.0,4.0,Very Difficult,Better Salary,Female,26,United States,Masters,Asian or Asian American
+Data Analyst,Yes,41k-65k,Finance,R,2.0,5.0,5.0,5.0,4.0,5.0,Easy,Better Salary,Male,24,United States,Bachelors,White or Caucasian
+Data Analyst,Yes,86k-105k,Marketing,Python,4.0,6.0,3.0,4.0,4.0,2.0,Easy,Better Salary,Female,28,Iran,Masters,Indian
+Data Analyst,Yes,106k-125k,Manufacturing,R,8.0,8.0,10.0,9.0,7.0,5.0,Easy,Better Salary,Male,29,United States,Bachelors,White or Caucasian
+Data Analyst,Yes,66k-85k,Finance,Python,3.0,2.0,1.0,1.0,0.0,2.0,Very Difficult,Better Salary,Female,26,United States,Masters,Asian or Asian American
+Data Analyst,Yes,41k-65k,Aviation,Python,3.0,5.0,3.0,3.0,1.0,1.0,Neither easy nor difficult,Better Salary,Male,28,United Kingdom,Bachelors,White or Caucasian
+Data Analyst,No,0-40k,Finance,Python,6.0,8.0,7.0,6.0,2.0,4.0,Easy,Intresting work,Male,25,France,Masters,White or Caucasian
+Data Analyst,Yes,66k-85k,Finance,R,5.0,7.0,7.0,3.0,7.0,9.0,Difficult,Better Salary,Female,26,United States,Bachelors,Asian or Asian American
+Data Engineer,Yes,125k-150k,Healthcare,Python,6.0,3.0,9.0,5.0,8.0,8.0,Neither easy nor difficult,Remote Work,Female,38,United States,Masters,White or Caucasian
+Other (Please Specify),Yes,0-40k,Demography and Social Statistics ,SQL,0.0,3.0,3.0,3.0,4.0,4.0,Neither easy nor difficult,Better Salary,Female,20,Nigeria,High School,Black or African American
+Data Analyst,No,66k-85k,Education,SQL,4.0,6.0,7.0,7.0,2.0,2.0,Neither easy nor difficult,Remote Work,Female,45,United States,Masters,Black or African American
+Data Analyst,No,86k-105k,Marketing,Python,5.0,3.0,5.0,6.0,6.0,4.0,Difficult,Good Work/Life Balance,Male,27,Canada,Masters,Pakistani
+Data Analyst,Yes,41k-65k,Consulting,Python,3.0,7.0,7.0,7.0,7.0,6.0,Difficult,Good Culture,Male,28,Canada,Masters,Asian or Asian American
+Student/Looking/None,Yes,0-40k,Student,R,2.0,10.0,10.0,10.0,10.0,3.0,Neither easy nor difficult,Remote Work,Female,29,Germany,Bachelors,Russian
+PMO,No,41k-65k,Tech,C/C++,7.0,7.0,7.0,7.0,7.0,7.0,Neither easy nor difficult,Better Salary,Female,43,Singapore,High School,Asian or Asian American
+Data Analyst,Yes,0-40k,Finance,Python,0.0,5.0,9.0,9.0,0.0,10.0,Neither easy nor difficult,Remote Work,Male,26,Antigua ,Bachelors,Black or African American
+Student/Looking/None,No,41k-65k,Tech,SQL,7.0,8.0,7.0,7.0,8.0,7.0,Neither easy nor difficult,"Better Salary, Good work/Life balance, Remote Work and Good Culture",Female,47,United States,Bachelors,Black or African American
+Student/Looking/None,Yes,0-40k,Finance,Python,,,,8.0,10.0,10.0,Easy,Remote Work,Male,23,Nigeria,Bachelors,Black or African American
+Data Analyst,Yes,0-40k,Tech,Python,0.0,1.0,1.0,1.0,1.0,2.0,Very Difficult,Better Salary,Male,25,Egypt,Bachelors,African
+System Administrator,No,0-40k,Finance,Python,6.0,6.0,3.0,7.0,2.0,4.0,Very Difficult,Learning possibilities,Male,32,Poland,Masters,White or Caucasian
+Data Analyst,Yes,0-40k,Finance,Python,1.0,10.0,10.0,5.0,3.0,1.0,Neither easy nor difficult,Better Salary,Female,25,United States,Bachelors,White or Caucasian
+Data Analyst,No,0-40k,Finance,Python,1.0,2.0,10.0,1.0,2.0,8.0,Difficult,Remote Work,Female,29,Venezuela,Bachelors,Hispanic or Latino
+Data Analyst,No,41k-65k,Healthcare,SQL,3.0,7.0,5.0,5.0,3.0,3.0,Neither easy nor difficult,Better Salary,Female,33,United States,Bachelors,Asian or Asian American
+Data Analyst,No,106k-125k,Education,Python,6.0,10.0,10.0,10.0,7.0,6.0,Easy,Learning possibilities,Male,36,United States,Masters,Asian or Asian American
+Data Analyst,Yes,41k-65k,Healthcare,Python,4.0,10.0,9.0,3.0,0.0,10.0,Difficult,Good Work/Life Balance,Male,25,United States,Bachelors,White or Caucasian
+Data Scientist,No,150k-225k,Other (Please Specify),Python,8.0,7.0,8.0,7.0,7.0,8.0,Neither easy nor difficult,Good Work/Life Balance,Male,38,United States,Masters,White or Caucasian
+Data Analyst,Yes,66k-85k,Energy,R,3.0,2.0,6.0,6.0,5.0,4.0,Difficult,Good Work/Life Balance,Male,30,United States,Masters,Mixed ( Caucasian / African-American )
+Data Analyst,Yes,41k-65k,Tech,Python,3.0,5.0,6.0,6.0,6.0,7.0,Difficult,Good Culture,Male,35,United States,Masters,Black or African American
+Teacher,No,41k-65k,Education,SQL,0.0,1.0,10.0,5.0,0.0,0.0,Difficult,Better Salary,Female,42,United States,Bachelors,White or Caucasian
+Data Analyst,Yes,66k-85k,Healthcare,Python,3.0,5.0,4.0,6.0,4.0,6.0,Easy,Remote Work,Male,30,United States,Masters,White or Caucasian
+Student/Looking/None,Yes,0-40k,None,Python,0.0,0.0,0.0,0.0,0.0,4.0,Very Difficult,Better Salary,Female,25,Nigeria,Bachelors,Black or African American
+Data Analyst,No,86k-105k,Healthcare,Python,5.0,9.0,5.0,2.0,5.0,1.0,Difficult,Good Culture,Female,28,United States,Bachelors,Asian or Asian American
+Data Analyst,Yes,0-40k,Manufacturing,Python,5.0,10.0,8.0,5.0,7.0,10.0,Very Difficult,Better Salary,Male,28,Canada,Bachelors,Asian or Asian American
+Student/Looking/None,No,0-40k,Student,SQL,0.0,0.0,0.0,0.0,0.0,0.0,Neither easy nor difficult,Better Salary,Male,20,Malaysia,High School,Asian or Asian American
+Data Analyst,Yes,106k-125k,Construction,VBA,7.0,8.0,7.0,7.0,10.0,10.0,Easy,Good Culture,Male,33,United States,Masters,Hispanic or Latino
+Data Analyst,No,66k-85k,Tech,Python,8.0,6.0,7.0,7.0,8.0,8.0,Easy,Better Salary,Male,23,United States,Associates,White or Caucasian
+Data Analyst,Yes,0-40k,Healthcare,R,4.0,5.0,7.0,7.0,5.0,7.0,Neither easy nor difficult,Better Salary,Female,35,Brazil,Bachelors,Hispanic or Latino
+Student/Looking/None,Yes,0-40k,Automotive,Python,2.0,2.0,3.0,3.0,2.0,3.0,Difficult,Good Work/Life Balance,Male,22,India,Bachelors,Asian or Asian American
+Data Analyst,Yes,0-40k,Tech,Python,5.0,10.0,5.0,6.0,6.0,8.0,Very Difficult,Better Salary,Male,33,India,Bachelors,Asian or Asian American
+Data Engineer,No,0-40k,Real Estate,Python,1.0,7.0,7.0,7.0,1.0,2.0,Very Easy,Better Salary,Male,22,United States,Bachelors,White or Caucasian
+Data Analyst,Yes,86k-105k,Logistics,R,7.0,8.0,8.0,7.0,5.0,9.0,Neither easy nor difficult,Remote Work,Male,35,United States,Bachelors,White or Caucasian
+Data Analyst,Yes,66k-85k,Agriculture,SQL,8.0,5.0,6.0,4.0,4.0,8.0,Easy,Good Work/Life Balance,Female,37,United States,Masters,White or Caucasian
+Student/Looking/None,Yes,0-40k,Finance,Python,4.0,,,,,,Very Easy,Better Salary,Male,22,United States,Associates,N/A
+Data Analyst,Yes,66k-85k,Healthcare,Python,10.0,10.0,10.0,7.0,10.0,10.0,Neither easy nor difficult,Better Salary,Male,36,United States,Masters,White or Caucasian
+Data Scientist,Yes,86k-105k,Marketing,Python,6.0,5.0,8.0,8.0,7.0,9.0,Easy,Good Work/Life Balance,Male,26,India,Bachelors,Hispanic or Latino
+Data Analyst,Yes,0-40k,Researcher,R,3.0,2.0,6.0,5.0,5.0,6.0,Neither easy nor difficult,Good Culture,Female,25,South Korea,Bachelors,Asian or Asian American
+Data Analyst,Yes,41k-65k,Logistics,R,4.0,6.0,6.0,5.0,5.0,6.0,Neither easy nor difficult,Remote Work,Female,34,United States,High School,White or Caucasian
+Data Analyst,Yes,0-40k,Marketing,Python,4.0,8.0,8.0,8.0,7.0,8.0,Difficult,Remote Work,Male,33,Chile,Bachelors,Hispanic or Latino
+Student/Looking/None,No,41k-65k,Marketing,Python,0.0,4.0,0.0,1.0,4.0,2.0,Very Difficult,Good Work/Life Balance,Male,37,United States,Bachelors,White or Caucasian
+Data Analyst,No,66k-85k,Marketing,Python,5.0,5.0,7.0,6.0,4.0,6.0,Very Easy,Better Salary,Female,54,United States,High School,White or Caucasian
+Data Analyst,Yes,0-40k,Finance,Python,2.0,,,,,,Very Easy,Better Salary,Male,26,India,Bachelors,Asian or Asian American
+Data Analyst,No,41k-65k,Education,R,4.0,7.0,7.0,7.0,2.0,7.0,Neither easy nor difficult,Better Salary,Female,27,United States,Masters,Hispanic or Latino
+Database Developer,Yes,0-40k,Telecommunication,SQL,2.0,3.0,6.0,6.0,3.0,5.0,Difficult,Better Salary,Male,24,United Kingdom,Bachelors,White or Caucasian
+Data Analyst,Yes,0-40k,Finance,Python,5.0,5.0,5.0,5.0,5.0,10.0,Neither easy nor difficult,Better Salary,Male,24,Egypt,Bachelors,White or Caucasian
+Consultant,Yes,0-40k,Consulting,Python,3.0,4.0,5.0,3.0,2.0,3.0,Neither easy nor difficult,Better Salary,Male,27,Panama,Bachelors,White or Caucasian
+Student/Looking/None,No,0-40k,None,Python,0.0,0.0,0.0,0.0,0.0,0.0,Very Difficult,Remote Work,Male,25,Indonesia,Bachelors,Asian or Asian American
+Data Analyst,Yes,0-40k,Tech,Python,1.0,7.0,7.0,7.0,7.0,1.0,Difficult,Better Salary,Female,28,United Kingdom,Masters,Black or African American
+Business Intelligence Developer,No,41k-65k,Education,Python,3.0,6.0,5.0,5.0,3.0,4.0,Easy,Remote Work,Male,21,United States,Bachelors,Asian or Asian American
+Data Analyst,Yes,86k-105k,Healthcare,Other,4.0,4.0,5.0,5.0,4.0,6.0,Difficult,Good Work/Life Balance,Female,28,United States,Bachelors,White or Caucasian
+Data Analyst,Yes,0-40k,Tech,Python,3.0,5.0,5.0,5.0,5.0,2.0,Neither easy nor difficult,Remote Work,Male,30,Ghana,Masters,Black or African American
+Data Analyst,No,0-40k,Education,Python,0.0,10.0,0.0,9.0,5.0,10.0,Easy,Remote Work,Male,24,Angola,Associates,Black or African American
+Data Analyst,Yes,0-40k,Healthcare,Python,7.0,4.0,6.0,5.0,6.0,6.0,Difficult,Remote Work,Male,26,India,Bachelors,Indian
+Data Analyst,Yes,0-40k,Tech,Python,,,,,,5.0,Neither easy nor difficult,Good Work/Life Balance,Female,19,Bangladesh ,High School,Asian or Asian American
+Student/Looking/None,No,0-40k,Customer support ,Python,5.0,6.0,6.0,5.0,1.0,3.0,Neither easy nor difficult,Good Work/Life Balance,Female,92,India,Masters,Asian or Asian American
+Data Analyst,Yes,0-40k,Healthcare,Python,1.0,8.0,5.0,1.0,7.0,8.0,Neither easy nor difficult,Remote Work,Male,28,Nigeria,Bachelors,Black or African American
+Student/Looking/None,Yes,0-40k,Education,Python,0.0,1.0,2.0,2.0,1.0,1.0,Neither easy nor difficult,Better Salary,Female,24,India,Masters,Asian or Asian American
+Informatics Specialist,No,41k-65k,Healthcare,Python,7.0,10.0,10.0,10.0,5.0,10.0,Easy,Better Salary,Male,25,United States,Masters,Asian or Asian American
+Data Analyst,Yes,41k-65k,Finance,Python,4.0,5.0,5.0,5.0,6.0,6.0,Neither easy nor difficult,Good Work/Life Balance,Male,42,United Kingdom,Masters,Black or African American
+Data Analyst,Yes,0-40k,Tech,Python,2.0,3.0,3.0,3.0,3.0,3.0,Difficult,Better Salary,Male,21,India,Bachelors,Asian or Asian American
+Data Analyst,No,66k-85k,Healthcare,Python,7.0,8.0,9.0,7.0,7.0,6.0,Easy,Better Salary,Male,24,United States,Bachelors,White or Caucasian
+Data Analyst,Yes,41k-65k,Healthcare,Python,4.0,7.0,6.0,6.0,6.0,7.0,Neither easy nor difficult,Better Salary,Female,26,United States,Bachelors,White or Caucasian
+Data Analyst,Yes,0-40k,Cosmetics ,Python,2.0,8.0,8.0,9.0,8.0,10.0,Difficult,Better Salary,Male,30,United Kingdom,Bachelors,White or Caucasian
+Data Engineer,Yes,86k-105k,Tech,SQL,6.0,10.0,10.0,10.0,10.0,10.0,Neither easy nor difficult,Good Culture,Male,27,United States,Bachelors,Black or African American
+Data Engineer,Yes,0-40k,Tech,Python,0.0,4.0,1.0,0.0,1.0,3.0,Easy,Better Salary,Male,28,India,Bachelors,Asian or Asian American
+Data Analyst,No,66k-85k,Real Estate,SQL,6.0,8.0,7.0,7.0,5.0,6.0,Easy,Better Salary,Female,29,United Kingdom,Bachelors,White or Caucasian
+Data Analyst,No,0-40k,Real Estate,Python,0.0,0.0,0.0,0.0,0.0,0.0,Easy,Good Work/Life Balance,Female,26,India,Bachelors,Asian or Asian American
+Data Engineer,Yes,0-40k,Finance,Python,3.0,3.0,3.0,3.0,3.0,4.0,Neither easy nor difficult,Remote Work,Male,29,Nigeria,Bachelors,Black or African American
+Business Analyst,No,66k-85k,Finance,None,3.0,5.0,7.0,2.0,5.0,7.0,Easy,Remote Work,Male,60,United Kingdom,Masters,White or Caucasian
+Data Analyst,Yes,0-40k,Healthcare,Python,5.0,8.0,8.0,5.0,5.0,6.0,Neither easy nor difficult,Better Salary,Male,25,Nigeria,Bachelors,Black or African American
+Finance Analyst ,No,0-40k,Construction,R,0.0,0.0,1.0,3.0,2.0,1.0,Neither easy nor difficult,Good Work/Life Balance,Female,37,Nigeria,Masters,African
+Data Analyst,Yes,66k-85k,Finance,Python,6.0,8.0,3.0,4.0,5.0,1.0,Neither easy nor difficult,Better Salary,Female,30,Canada,Bachelors,Asian or Asian American
+Data Analyst,Yes,0-40k,Healthcare,Python,0.0,1.0,2.0,1.0,0.0,3.0,Neither easy nor difficult,Better Salary,Female,27,Nigeria,Masters,Black or African American
+Data Scientist,Yes,225k+,Tech,R,5.0,6.0,5.0,5.0,6.0,6.0,Difficult,In office work,Male,31,United States,PhD,White or Caucasian
+Student/Looking/None,No,0-40k,Student,R,10.0,10.0,10.0,10.0,10.0,10.0,Neither easy nor difficult,Good Work/Life Balance,Male,24,United Kingdom,Masters,Asian or Asian American
+Data Analyst,No,0-40k,Finance,MATLAB,0.0,6.0,6.0,6.0,5.0,6.0,Neither easy nor difficult,Better Salary,Female,20,United States,Bachelors,Black or African American
+Web Developer,No,0-40k,Tech,R,2.0,1.0,4.0,1.0,1.0,1.0,Easy,Good Work/Life Balance,Male,24,India,Bachelors,Asian or Asian American
+Student/Looking/None,Yes,0-40k,Manufacturing,R,3.0,6.0,7.0,6.0,4.0,4.0,Neither easy nor difficult,Good Work/Life Balance,Male,24,Romania,Bachelors,White or Caucasian
+Student/Looking/None,No,0-40k,Not working yet,R,0.0,1.0,3.0,0.0,0.0,0.0,Neither easy nor difficult,Good Work/Life Balance,Male,41,Spain,Bachelors,Hispanic or Latino
+Data Analyst,Yes,86k-105k,Tech,R,8.0,8.0,8.0,8.0,8.0,8.0,Difficult,Better Salary,Male,41,United States,Bachelors,White or Caucasian
+Manager ,No,150k-225k,Marketing,Python,9.0,8.0,9.0,10.0,8.0,10.0,Neither easy nor difficult,Good Culture,Male,43,United States,Bachelors,White or Caucasian
+Data Analyst,No,66k-85k,Healthcare,Python,7.0,7.0,8.0,4.0,6.0,9.0,Easy,Remote Work,Female,38,United States,Bachelors,White or Caucasian
+Data Analyst,Yes,0-40k,Marketing,Python,5.0,5.0,5.0,5.0,5.0,6.0,Neither easy nor difficult,Better Salary,Female,28,Philippines,Bachelors,Asian or Asian American
+Data Analyst,Yes,86k-105k,Healthcare,Python,10.0,8.0,6.0,10.0,7.0,5.0,Neither easy nor difficult,Good Culture,Female,31,Germany,Bachelors,Hispanic or Latino
+Data Analyst,Yes,86k-105k,Government,SAS,8.0,7.0,8.0,6.0,7.0,8.0,Difficult,Good Work/Life Balance,Female,28,United States,Masters,White or Caucasian
+Data Analyst,No,41k-65k,Healthcare,C/C++,7.0,8.0,9.0,9.0,4.0,9.0,Easy,Remote Work,Male,23,United States,Masters,Asian or Asian American
+Data Analyst,No,41k-65k,Utilities,Python,5.0,5.0,4.0,5.0,6.0,6.0,Neither easy nor difficult,Better Salary,Male,25,United Kingdom,Bachelors,Black or African American
+Software Engineer,No,0-40k,Tech,R,2.0,5.0,2.0,8.0,9.0,10.0,Difficult,Remote Work,Male,26,Poland,Masters,White or Caucasian
+Data Scientist,Yes,125k-150k,Finance,Python,9.0,4.0,8.0,7.0,5.0,6.0,Difficult,Good Work/Life Balance,Male,35,United States,Bachelors,White or Caucasian
+Data Analyst,Yes,106k-125k,Marketing,R,8.0,9.0,9.0,7.0,8.0,8.0,Neither easy nor difficult,Remote Work,Male,30,Denmark,Masters,White or Caucasian
+Data Analyst,Yes,86k-105k,Tech,R,3.0,,,,,,Neither easy nor difficult,Better Salary,Male,35,United Kingdom,Bachelors,White or Caucasian
+Data Analyst,Yes,0-40k,Telecommunication,Python,0.0,8.0,5.0,5.0,2.0,2.0,Easy,Better Salary,Male,28,Panama,Bachelors,Hispanic or Latino
+Student/Looking/None,No,0-40k,Tech,Python,0.0,2.0,3.0,3.0,2.0,3.0,Easy,Good Work/Life Balance,Female,24,Nigeria,Bachelors,Black or African American
+Data Analyst,Yes,41k-65k,Tech,Python,8.0,10.0,7.0,5.0,6.0,5.0,Neither easy nor difficult,Good Culture,Female,34,United States,Bachelors,White or Caucasian
+Data Analyst,Yes,41k-65k,Tech,Python,3.0,5.0,4.0,5.0,3.0,6.0,Neither easy nor difficult,Good Work/Life Balance,Female,31,Germany,Masters,White or Caucasian
+Data Analyst,Yes,0-40k,Tech,Python,0.0,0.0,0.0,0.0,0.0,0.0,Difficult,Good Work/Life Balance,Male,30,United Kingdom,Masters,Asian or Asian American
+Data Engineer,Yes,86k-105k,Logistics,JavaScript,4.0,4.0,1.0,6.0,1.0,5.0,Difficult,Better Salary,Male,40,United Kingdom,Bachelors,White or Caucasian
+Data Analyst,No,41k-65k,Consulting,R,4.0,10.0,10.0,10.0,8.0,6.0,Very Difficult,Better Salary,Male,26,United States,Bachelors,Hispanic or Latino
+Data Analyst,No,125k-150k,Healthcare,R,9.0,9.0,6.0,6.0,6.0,7.0,Neither easy nor difficult,Good Culture,Male,25,United States,Bachelors,White or Caucasian
+Data Analyst,Yes,0-40k,Maritime,SQL,,5.0,8.0,4.0,8.0,4.0,Easy,Good Culture,Male,45,Greece,Associates,White or Caucasian
+Data Analyst,No,41k-65k,Finance,R,7.0,9.0,8.0,6.0,6.0,9.0,Neither easy nor difficult,Good Culture,Male,26,United States,Masters,Black or African American
+Data Scientist,No,0-40k,Finance,Python,7.0,7.0,8.0,6.0,6.0,4.0,Neither easy nor difficult,Good Work/Life Balance,Male,26,India,Masters,Indian
+Researchers,Yes,0-40k,Finance,Python,3.0,2.0,4.0,2.0,2.0,3.0,Difficult,Better Salary,Male,23,India,Masters,Asian or Asian American
+Data Engineer,Yes,106k-125k,Tech,Python,4.0,4.0,4.0,4.0,5.0,6.0,Neither easy nor difficult,Good Work/Life Balance,Male,25,India,Masters,Asian or Asian American
+Data Analyst,Yes,41k-65k,Healthcare,R,4.0,5.0,6.0,6.0,5.0,6.0,Neither easy nor difficult,Better Salary,Female,33,United States,High School,White or Caucasian
+Business Analyst,No,0-40k,Marketing,SQL,6.0,3.0,3.0,6.0,6.0,4.0,Very Easy,Learning possibilities,Male,33,India,Bachelors,Asian or Asian American
+Data Analyst,Yes,86k-105k,Healthcare,R,7.0,8.0,7.0,8.0,3.0,4.0,Easy,Good Culture,Male,27,United States,Bachelors,White or Caucasian
+Data Analyst,Yes,106k-125k,Tech,Python,9.0,9.0,9.0,8.0,8.0,9.0,Difficult,Remote Work,Female,28,United States,Masters,Hispanic or Latino
+Data Analyst,Yes,66k-85k,Tech,Python,5.0,6.0,7.0,6.0,6.0,7.0,Very Easy,Better Salary,Male,32,United States,Bachelors,Hispanic or Latino
+Data Analyst,Yes,0-40k,Tech,Python,2.0,6.0,3.0,6.0,6.0,7.0,Neither easy nor difficult,Better Salary,Male,35,India,Masters,Asian or Asian American
+Data Analyst,Yes,86k-105k,Real Estate,Python,8.0,9.0,10.0,10.0,9.0,10.0,Neither easy nor difficult,Good Culture,Male,34,United States,Masters,Hispanic or Latino
+Data Analyst,No,41k-65k,Electronics,Python,9.0,8.0,3.0,5.0,2.0,4.0,Easy,Better Salary,Male,27,Germany,Masters,White or Caucasian
+Data Coordinator,Yes,66k-85k,Education,R,4.0,5.0,5.0,3.0,3.0,4.0,Easy,Good Culture,Female,30,United States,Masters,White or Caucasian
+Data Analyst,No,66k-85k,Logistics,Python,8.0,9.0,9.0,9.0,9.0,10.0,Neither easy nor difficult,Better Salary,Male,34,United States,Masters,White or Caucasian
+Student,No,41k-65k,Utilities,Python,3.0,10.0,6.0,5.0,7.0,8.0,Neither easy nor difficult,Remote Work,Female,22,United States,Bachelors,White or Caucasian
+Data Analyst,Yes,0-40k,Finance,Python,2.0,2.0,5.0,5.0,2.0,3.0,Very Difficult,Good Work/Life Balance,Female,33,India,Masters,Asian or Asian American
+Data Analyst,No,0-40k,Finance,Python,8.0,9.0,9.0,9.0,9.0,9.0,Neither easy nor difficult,Better Salary,Female,26,India,Masters,Asian or Asian American
+Data Engineer,Yes,0-40k,Tech,Python,0.0,5.0,8.0,6.0,5.0,7.0,Neither easy nor difficult,Better Salary,Male,28,Argentina,Bachelors,Hispanic or Latino
+Driver,No,0-40k,Transportation,Python,2.0,2.0,7.0,4.0,8.0,1.0,Difficult,Remote Work,Male,42,United Kingdom,Bachelors,African
+Data Analyst,No,0-40k,Urbanism,R,4.0,10.0,2.0,3.0,2.0,3.0,Neither easy nor difficult,Better Salary,Male,30,Morocco,Masters,African
+Data Scientist,Yes,106k-125k,Tech,SQL,10.0,9.0,8.0,8.0,9.0,10.0,Difficult,Better Salary,Male,25,United States,Associates,White or Caucasian
+Data Analyst,Yes,41k-65k,Construction,Python,4.0,6.0,6.0,6.0,5.0,7.0,Easy,Better Salary,Male,32,United States,Bachelors,Black or African American
+Data Analyst,No,0-40k,Tech,Python,3.0,4.0,5.0,5.0,6.0,6.0,Neither easy nor difficult,Better Salary,Male,31,Germany,Masters,Asian or Asian American
+Data Analyst,Yes,150k-225k,Education,Python,8.0,7.0,5.0,4.0,7.0,7.0,Easy,Remote Work,Male,30,United Arab Emirates,High School,White or Caucasian
+Student/Looking/None,Yes,0-40k,Marketing,Python,0.0,6.0,6.0,2.0,0.0,3.0,Neither easy nor difficult,Better Salary,Male,23,Canada,Bachelors,Asian or Asian American
+Data manager,No,66k-85k,Education,R,7.0,7.0,6.0,7.0,6.0,6.0,Easy,Remote Work,Female,31,United Kingdom,Bachelors,White or Caucasian
+Data Analyst,No,41k-65k,Aviation,Python,7.0,5.0,9.0,9.0,4.0,9.0,Neither easy nor difficult,Good Work/Life Balance,Female,29,Fin,Masters,Black or African American
+Data Analyst,Yes,0-40k,Tech,Python,5.0,4.0,4.0,5.0,7.0,10.0,Neither easy nor difficult,Remote Work,Male,24,Nigeria,Bachelors,African
+GIS Analyst ,No,41k-65k,State,Python,2.0,7.0,6.0,5.0,6.0,4.0,Neither easy nor difficult,Better Salary,Male,36,United States,Masters,Asian or Asian American
+Data Analyst,Yes,41k-65k,Real Estate,R,4.0,6.0,6.0,6.0,6.0,6.0,Difficult,Remote Work,Female,32,United States,Masters,White or Caucasian
+Business Analyst,Yes,86k-105k,Healthcare,Python,8.0,9.0,7.0,7.0,7.0,9.0,Difficult,Remote Work,Female,36,United States,Bachelors,White or Caucasian
+Data Engineer,No,106k-125k,Healthcare,SQL,8.0,6.0,5.0,2.0,3.0,2.0,Easy,Better Salary,Male,30,United States,Bachelors,White or Caucasian
+Student/Looking/None,Yes,0-40k,Not working yet,R,0.0,2.0,2.0,3.0,3.0,4.0,Neither easy nor difficult,Good Work/Life Balance,Male,42,Sudan,Masters,Black or African American
+Data Analyst,Yes,86k-105k,Healthcare,DAX,6.0,6.0,6.0,5.0,4.0,4.0,Easy,Remote Work,Male,53,Australia,PhD,White or Caucasian
+Data Analyst,No,0-40k,Finance,Python,1.0,7.0,4.0,10.0,10.0,10.0,Neither easy nor difficult,Better Salary,Male,25,Kenya,High School,Indian 
+Data Analyst,No,0-40k,Healthcare,Python,1.0,5.0,4.0,6.0,5.0,6.0,Neither easy nor difficult,Better Salary,Male,23,Lybia,Bachelors,White or Caucasian
+Data Analyst,Yes,0-40k,Agriculture,Python,2.0,1.0,3.0,3.0,3.0,4.0,Difficult,Better Salary,Male,36,Saudi Arabia,Bachelors,Arab 
+Data Analyst,Yes,41k-65k,Healthcare,SQL,,,,,,6.0,Easy,Good Work/Life Balance,Male,32,United Arab Emirates,Bachelors,African
+Data Analyst,No,86k-105k,Finance,Python,3.0,6.0,4.0,2.0,2.0,3.0,Difficult,Challenging / exciting problems,Male,25,United States,Masters,Hispanic or Latino
+Data Engineer,Yes,41k-65k,Tech,Python,4.0,4.0,3.0,4.0,4.0,5.0,Neither easy nor difficult,Remote Work,Female,35,United Kingdom,Masters,Asian or Asian American
+Data Analyst,Yes,66k-85k,Sensors,R,3.0,4.0,4.0,5.0,4.0,4.0,Very Easy,Better Salary,Male,26,United States,Bachelors,White or Caucasian
+Student/Looking/None,No,0-40k,Tech,Python,2.0,7.0,9.0,7.0,3.0,3.0,Difficult,Remote Work,Male,22,United States,Bachelors,White or Caucasian
+Data Scientist,Yes,86k-105k,Automotive,Python,6.0,8.0,10.0,9.0,6.0,8.0,Neither easy nor difficult,Better Salary,Male,30,Canada,Masters,Asian or Asian American
+Data Analyst,Yes,66k-85k,Logistics,Python,2.0,8.0,6.0,1.0,8.0,10.0,Neither easy nor difficult,Better Salary,Male,36,United States,Masters,White or Caucasian
+Data Analyst,Yes,66k-85k,Healthcare,R,4.0,4.0,5.0,5.0,4.0,6.0,Neither easy nor difficult,All of the above,Female,30,United States,Masters,White or Caucasian
+Data Scientist,Yes,106k-125k,Finance,Python,9.0,8.0,10.0,10.0,10.0,10.0,Difficult,Remote Work,Male,29,United States,Bachelors,Asian or Asian American
+Business Intelligence Analyst,Yes,66k-85k,Professional Services,R,8.0,10.0,10.0,7.0,8.0,5.0,Difficult,Data Maturity,Male,30,United States,Masters,White or Caucasian
+Data Engineer,No,41k-65k,Finance,Python,0.0,6.0,6.0,6.0,6.0,6.0,Very Easy,Better Salary,Male,24,United States,Bachelors,Black or African American
+Data Engineer,Yes,225k+,Tech,SQL,3.0,3.0,4.0,4.0,3.0,5.0,Neither easy nor difficult,Better Salary,Male,33,United States,Bachelors,Asian or Asian American
+Data Analyst,No,106k-125k,Beverage and foods,Python,10.0,10.0,10.0,10.0,10.0,6.0,Easy,Better Salary,Female,42,United States,Bachelors,White or Caucasian
+Data Analyst,Yes,41k-65k,Healthcare,Python,1.0,10.0,10.0,8.0,10.0,3.0,Neither easy nor difficult,Better Salary,Female,36,United States,Bachelors,White or Caucasian
+Data Analyst,Yes,41k-65k,Researcher,Python,2.0,3.0,7.0,6.0,5.0,6.0,Neither easy nor difficult,Better Salary,Male,27,United States,Bachelors,White or Caucasian
+Data Analyst,No,0-40k,Tech,Python,8.0,7.0,8.0,7.0,7.0,9.0,Easy,Learning possibilities,Female,21,India,Bachelors,Asian or Asian American
+Data Analyst,Yes,41k-65k,Healthcare,Python,8.0,5.0,8.0,8.0,5.0,10.0,Difficult,Remote Work,Female,34,Israel,Masters,White or Caucasian
+Student/Looking/None,No,0-40k,Education,Python,2.0,5.0,5.0,5.0,2.0,4.0,Difficult,Better Salary,Male,27,Netherlands,Bachelors,White or Caucasian
+BI consultant ,Yes,0-40k,Tech,Python,7.0,8.0,8.0,8.0,8.0,7.0,Neither easy nor difficult,Good Culture,Male,27,France,Masters,White or Caucasian
+Student/Looking/None,No,0-40k,Education,R,1.0,1.0,2.0,1.0,0.0,3.0,Neither easy nor difficult,Good Work/Life Balance,Male,30,Kenya,Associates,African
+Data Analyst,Yes,66k-85k,Government,SQL,2.0,0.0,0.0,0.0,0.0,2.0,Difficult,Better Salary,Female,33,United States,Bachelors,White or Caucasian
+Data Analyst,Yes,86k-105k,Finance,Python,3.0,3.0,4.0,4.0,4.0,4.0,Difficult,Good Culture,Male,47,India,Masters,American Indian or Alaska Native
+Data Analyst,Yes,66k-85k,Marketing,SQL,4.0,5.0,4.0,5.0,4.0,4.0,Difficult,Better work & Remote Salary,Male,27,United States,Masters,Asian or Asian American
+Data Analyst,No,0-40k,Healthcare,Python,6.0,7.0,8.0,7.0,6.0,7.0,Neither easy nor difficult,Better Salary,Male,26,India,Bachelors,Asian or Asian American
+Data Analyst,No,0-40k,Finance,Python,2.0,3.0,2.0,5.0,5.0,6.0,Neither easy nor difficult,Remote Work,Female,35,India,Masters,Asian or Asian American
+Data Analyst,Yes,86k-105k,Education,Python,0.0,1.0,1.0,0.0,0.0,0.0,Neither easy nor difficult,Good Culture,Male,31,United States,Masters,Hispanic or Latino
+Data Analyst,Yes,0-40k,Education,Python,2.0,1.0,2.0,3.0,4.0,3.0,Difficult,Remote Work,Male,25,Zambia,Bachelors,Black or African American
+Data Engineer,Yes,66k-85k,Real Estate,Python,3.0,10.0,8.0,8.0,10.0,10.0,Easy,Remote Work,Male,27,United States,Bachelors,White or Caucasian
+Data Analyst,Yes,41k-65k,Tech,Python,5.0,8.0,3.0,2.0,4.0,8.0,Neither easy nor difficult,Good Culture,Male,32,Netherlands,Bachelors,White or Caucasian
+Student/Looking/None,Yes,0-40k,Real Estate,Python,0.0,3.0,3.0,3.0,3.0,6.0,Difficult,Good Work/Life Balance,Male,47,Portugal,Bachelors,White or Caucasian
+Data Analyst,No,66k-85k,Finance,Python,0.0,10.0,10.0,5.0,0.0,0.0,Neither easy nor difficult,Good Work/Life Balance,Female,30,United States,Masters,Asian or Asian American
+Data Analyst,Yes,106k-125k,Defense,Python,8.0,6.0,6.0,7.0,9.0,10.0,Easy,Better Salary,Female,35,United States,Masters,Black or African American
+Data Analyst,Yes,41k-65k,Finance,Python,6.0,9.0,5.0,7.0,8.0,9.0,Difficult,Remote Work,Male,25,United States,High School,Hispanic or Latino
+Data Steward,No,66k-85k,Beverage and foods,Python,3.0,6.0,6.0,6.0,6.0,6.0,Neither easy nor difficult,Better Salary,Male,27,United States,Bachelors,White or Caucasian
+Data Analyst,Yes,41k-65k,Healthcare,R,1.0,5.0,3.0,3.0,6.0,5.0,Difficult,Remote Work,Female,27,United States,Masters,Black or African American
+Student/Looking/None,No,0-40k,Tech,Python,1.0,8.0,8.0,1.0,3.0,7.0,Very Easy,Better Salary,Female,23,India,Masters,Asian or Asian American
+Data Scientist,No,41k-65k,Manufacturing,Python,9.0,10.0,10.0,10.0,10.0,10.0,Neither easy nor difficult,Good Culture,Male,18,United States,Bachelors,White or Caucasian
+Data Analyst,Yes,0-40k,Healthcare,Python,8.0,10.0,9.0,6.0,8.0,9.0,Easy,Remote Work,Female,28,Costa Rica,Masters,Hispanic or Latino
+Data Analyst,Yes,125k-150k,Healthcare,Python,7.0,6.0,8.0,8.0,8.0,7.0,Easy,Remote Work,Male,28,United States,Bachelors,White or Caucasian
+Student/Looking/None,No,0-40k,Not working yet,Python,0.0,0.0,0.0,0.0,0.0,0.0,Easy,Good Work/Life Balance,Female,26,United States,Bachelors,American Indian or Alaska Native
+Student/Looking/None,No,0-40k,Education,Python,0.0,0.0,3.0,0.0,0.0,8.0,Difficult,Better Salary,Male,27,Ghana,Bachelors,Black or African American
+Data Analyst,No,41k-65k,Tech,Python,9.0,7.0,9.0,10.0,10.0,10.0,Neither easy nor difficult,Good Work/Life Balance,Female,22,India,Masters,Asian or Asian American
+Data Analyst,Yes,0-40k,Tech,R,0.0,8.0,7.0,6.0,3.0,9.0,Very Difficult,Better Salary,Male,27,United States,High School,White or Caucasian
+Data Engineer,Yes,0-40k,Beverage and foods,Python,5.0,7.0,6.0,8.0,7.0,7.0,Neither easy nor difficult,Good Work/Life Balance,Male,28,India,Bachelors,Asian or Asian American
+Data Analyst,Yes,0-40k,Tech,Python,3.0,2.0,4.0,3.0,3.0,3.0,Neither easy nor difficult,Better Salary,Male,25,Nigeria,High School,Black or African American
+Data Analyst,No,0-40k,Healthcare,Python,2.0,6.0,6.0,7.0,7.0,9.0,Difficult,Better Salary,Male,32,United Kingdom,Bachelors,Hispanic or Latino
+Student/Looking/None,Yes,0-40k,Finance,SQL,7.0,9.0,10.0,10.0,3.0,4.0,Easy,Remote Work,Male,33,Uruguay,Bachelors,White or Caucasian
+Data Analyst,No,41k-65k,Government,Python,5.0,6.0,5.0,2.0,3.0,3.0,Easy,Remote Work,Male,23,Canada,Masters,Black or African American
+Student/Looking/None,Yes,0-40k,Finance,R,4.0,5.0,4.0,4.0,5.0,6.0,Neither easy nor difficult,Remote Work,Female,40,Nigeria,Bachelors,Black or African American
+Data Analyst,Yes,41k-65k,Outsourcing,Python,7.0,9.0,9.0,9.0,7.0,9.0,Easy,Better Salary,Female,28,United Kingdom,Bachelors,Asian or Asian American
+Data Analyst,No,0-40k,Real Estate,R,3.0,7.0,8.0,6.0,6.0,9.0,Difficult,Remote Work,Male,26,Nigeria,High School,Black or African American
+Technical consultant,Yes,0-40k,Tech,Python,3.0,5.0,5.0,4.0,3.0,2.0,Difficult,Better Salary,Female,24,India,Bachelors,Asian or Asian American
+Software Engineer,Yes,86k-105k,Finance,Python,7.0,5.0,5.0,8.0,8.0,8.0,Neither easy nor difficult,Remote Work,Female,40,United States,Associates,Bi-racial people should be able to check 2 options in 2022. 
+Data Analyst,Yes,66k-85k,Consulting,Python,8.0,10.0,10.0,10.0,7.0,9.0,Neither easy nor difficult,Better Salary,Male,26,United States,Bachelors,Black or African American
+Data Scientist,Yes,41k-65k,Cobsukting,Python,8.0,8.0,10.0,10.0,10.0,10.0,Easy,Good Culture,Female,44,United Kingdom,Bachelors,White or Caucasian
+Systems configuration ,Yes,66k-85k,Insurance,Python,7.0,9.0,8.0,8.0,6.0,6.0,Neither easy nor difficult,Better Salary,Male,36,United States,Masters,White or Caucasian
+Business Analyst,Yes,0-40k,Workforce ,Python,1.0,5.0,10.0,10.0,8.0,10.0,Neither easy nor difficult,Better Salary,Male,30,Costa Rica,Bachelors,Hispanic or Latino
+Sales & marketing,Yes,0-40k,Construction,Python,3.0,3.0,3.0,2.0,2.0,2.0,Very Easy,Good Work/Life Balance,Male,48,Indonesia,Masters,Melayu
+Data Analyst,Yes,41k-65k,Construction,Php,1.0,4.0,1.0,2.0,2.0,3.0,Easy,Better Salary,Female,30,Canada,Masters,Asian or Asian American
+RF Engineer,No,0-40k,Telecommunication,Python,3.0,8.0,8.0,5.0,3.0,5.0,Difficult,Better Salary,Male,28,India,Bachelors,Dravidian
+Support Engineer,No,0-40k,Tech,Python,5.0,8.0,7.0,7.0,3.0,2.0,Difficult,Better Salary,Male,25,India,Bachelors,Indian
+Analytics Engineer,No,106k-125k,Tech,SQL,6.0,5.0,4.0,4.0,3.0,4.0,Easy,Better Salary,Male,24,United States,Masters,American Indian or Alaska Native
+Data Analyst,Yes,41k-65k,Nonprofit,Python,5.0,10.0,7.0,7.0,4.0,8.0,Easy,Better Salary,Male,31,United States,Bachelors,Black or African American
+Data Engineer,No,0-40k,Real Estate,Python,3.0,3.0,8.0,9.0,5.0,3.0,Easy,Better Salary,Male,23,United Kingdom,Bachelors,arab
+Data Analyst,No,41k-65k,Law Enforcement,DAX,1.0,4.0,4.0,1.0,1.0,4.0,Easy,Good Culture,Female,48,United Kingdom,Masters,White or Caucasian
+Data Analyst,Yes,66k-85k,Healthcare,Python,6.0,9.0,8.0,8.0,8.0,7.0,Neither easy nor difficult,Better Salary,Male,28,United States,Bachelors,Black or African American
+Data Analyst,Yes,41k-65k,Marketing,Python,5.0,7.0,7.0,7.0,7.0,7.0,Difficult,Better Salary,Male,32,United Kingdom,Masters,Hispanic or Latino
+Data Scientist,Yes,41k-65k,Finance,Python,5.0,7.0,7.0,4.0,5.0,7.0,Neither easy nor difficult,Better Salary,Male,30,Hong Kong,Bachelors,Asian or Asian American
+Data Analyst,Yes,0-40k,Insurance,Python,5.0,5.0,7.0,7.0,7.0,8.0,Neither easy nor difficult,Good Work/Life Balance,Male,32,Tunisia,Masters,White or Caucasian
+Data Analyst,Yes,0-40k,Tech,Python,0.0,3.0,0.0,1.0,0.0,0.0,Easy,Good Culture,Female,30,Sri lanka,Masters,Asian
+Data Analyst,Yes,0-40k,Manufacturing,Python,4.0,2.0,5.0,2.0,4.0,4.0,Neither easy nor difficult,Good Work/Life Balance,Female,35,Spain,Masters,White or Caucasian
+Student/Looking/None,Yes,0-40k,Tech,R,,,,,,10.0,Easy,Remote Work,Female,38,United Kingdom,Masters,Black or African American
+Account manager,Yes,66k-85k,Marketing,Python,6.0,6.0,7.0,7.0,6.0,7.0,Easy,Good Culture,Female,30,United States,Masters,Asian or Asian American
+Data Analyst,Yes,41k-65k,Tech,Python,3.0,3.0,5.0,4.0,4.0,4.0,Neither easy nor difficult,Better Salary,Male,48,United States,Bachelors,White or Caucasian
+Data Analyst,Yes,66k-85k,Finance,SAS and SQL,5.0,8.0,5.0,5.0,5.0,4.0,Easy,Remote Work,Male,32,Canada,Masters,Asian or Asian American
+Incident Manager,Yes,41k-65k,Telecommunication,Python,4.0,5.0,4.0,5.0,5.0,6.0,Difficult,Good Work/Life Balance,Male,27,India,Bachelors,American Indian or Alaska Native
+Product owner,No,41k-65k,Tech,Python,7.0,9.0,5.0,6.0,6.0,7.0,Easy,The work,Male,27,United Kingdom,Masters,White or Caucasian
+Student/Looking/None,No,0-40k,Finance,Python,8.0,7.0,6.0,7.0,8.0,10.0,Neither easy nor difficult,Remote Work,Male,24,Kenya,Bachelors,African
+Data Scientist,Yes,150k-225k,Finance,R,9.0,9.0,9.0,9.0,8.0,8.0,Difficult,Better Salary,Male,42,United States,PhD,Asian or Asian American
+Business Analyst,No,41k-65k,Tech,Python,8.0,6.0,6.0,8.0,7.0,8.0,Neither easy nor difficult,Better Salary,Male,24,United States,Bachelors,Hispanic or Latino
+Database Developer,Yes,0-40k,Tech,Python,5.0,9.0,7.0,7.0,6.0,9.0,Easy,Better Salary,Male,23,India,Bachelors,Asian or Asian American
+Data Analyst,No,0-40k,Tech,Python,7.0,9.0,8.0,8.0,4.0,2.0,Neither easy nor difficult,Better Salary,Male,26,India,Bachelors,Asian or Asian American
+Data Analyst,No,41k-65k,Home and living,SQL,5.0,6.0,6.0,2.0,2.0,3.0,Neither easy nor difficult,Better Salary,Male,32,Germany,Bachelors,Black or African American
+Presales Engineer ,No,0-40k,Telecommunication,Python,4.0,3.0,2.0,0.0,0.0,0.0,Neither easy nor difficult,Good Work/Life Balance,Male,35,Argentina,Bachelors,White or Caucasian
+Data Analyst,Yes,106k-125k,Healthcare,Python,4.0,3.0,4.0,2.0,2.0,2.0,Easy,Good Work/Life Balance,Male,41,United States,High School,White or Caucasian
+Predictive Analyst,No,41k-65k,Education,Python,4.0,9.0,8.0,8.0,6.0,7.0,Neither easy nor difficult,Better Salary,Male,25,United States,Masters,White or Caucasian
+Data Analyst,Yes,0-40k,Construction,Python,0.0,0.0,0.0,0.0,0.0,0.0,Very Difficult,Better Salary,Female,28,United States,Masters,Asian or Asian American
+Data Analyst,Yes,41k-65k,Agriculture,Python,3.0,6.0,5.0,5.0,5.0,6.0,Neither easy nor difficult,Better Salary,Male,29,United States,Bachelors,White or Caucasian
+Student/Looking/None,No,0-40k,Telecommunication,Python,8.0,10.0,6.0,7.0,8.0,8.0,Neither easy nor difficult,Better Salary,Male,19,United States,High School,White or Caucasian
+Data Analyst,Yes,41k-65k,Insurance,Python,5.0,6.0,9.0,6.0,7.0,10.0,Neither easy nor difficult,Better Salary,Male,27,India,Bachelors,Asian or Asian American
+Student/Looking/None,Yes,0-40k,Finance,Python,8.0,9.0,9.0,7.0,8.0,8.0,Neither easy nor difficult,Better Salary,Male,25,Other (Please Specify),Bachelors,White or Caucasian
+Data Analyst,Yes,41k-65k,Non Profit Organization,Python,6.0,10.0,10.0,10.0,10.0,8.0,Difficult,Better Salary,Female,26,Canada,Masters,Asian or Asian American
+Data Analyst,Yes,0-40k,Healthcare,Python,3.0,4.0,5.0,5.0,4.0,5.0,Difficult,Good Work/Life Balance,Male,25,Spain,Bachelors,White or Caucasian
+Data Analyst,Yes,0-40k,Manufacturing,Python,6.0,6.0,9.0,9.0,10.0,10.0,Neither easy nor difficult,Remote Work,Male,25,Portugal,Bachelors,White or Caucasian
+Data Analyst,Yes,0-40k,Healthcare,R,2.0,3.0,4.0,3.0,3.0,5.0,Neither easy nor difficult,Good Work/Life Balance,Male,26,Liberia,Bachelors,Black or African American
+Data Analyst,Yes,125k-150k,Education,Python,8.0,8.0,7.0,6.0,7.0,9.0,Neither easy nor difficult,Good Culture,Male,35,United States,Bachelors,White or Caucasian
+Data Analyst,Yes,86k-105k,Marketing,Python,6.0,7.0,7.0,6.0,7.0,6.0,Difficult,Remote Work,Male,29,United States,Masters,Black or African American
+Data Analyst,Yes,86k-105k,Tech,Python,7.0,6.0,5.0,4.0,3.0,6.0,Neither easy nor difficult,Better Salary,Female,41,United States,Associates,Hispanic or Latino
+Student/Looking/None,No,0-40k,Education,Python,0.0,6.0,4.0,5.0,2.0,4.0,Very Difficult,Remote Work,Female,22,United States,Bachelors,Hispanic or Latino
+Data Analyst,Yes,66k-85k,Healthcare,None,2.0,6.0,6.0,4.0,3.0,3.0,Difficult,Better Salary,Male,35,United States,Bachelors,Hispanic or Latino
+Data Analyst,Yes,66k-85k,Finance,Python,4.0,3.0,4.0,4.0,4.0,6.0,Very Difficult,Better Salary,Male,30,SG,Bachelors,Asian or Asian American
+Data Engineer,No,150k-225k,Real Estate,Python,4.0,6.0,3.0,2.0,3.0,3.0,Neither easy nor difficult,Good Culture,Male,37,Canada,Bachelors,Asian or Asian American
+Data Analyst,Yes,66k-85k,Aviation,Python,6.0,7.0,7.0,5.0,5.0,9.0,Difficult,Better Salary,Female,28,United States,Masters,Black or African American
+Data Analyst,No,86k-105k,Real Estate,Python,7.0,5.0,6.0,6.0,4.0,6.0,Neither easy nor difficult,Good Culture,Male,23,United States,High School,White or Caucasian
+Student/Looking/None,No,0-40k,Finance,Python,3.0,4.0,8.0,5.0,5.0,3.0,Neither easy nor difficult,Better Salary,Male,26,United States,High School,Asian or Asian American
+Data Analyst,No,66k-85k,Logistics,Python,2.0,4.0,4.0,3.0,4.0,4.0,Neither easy nor difficult,Good Work/Life Balance,Male,25,Australia,Bachelors,Native Hawaiian or other Pacific Islander
+Data Analyst,No,0-40k,Tech,Python,0.0,1.0,2.0,1.0,1.0,1.0,Neither easy nor difficult,Remote Work,Male,23,India,Bachelors,Asian or Asian American
+Student/Looking/None,Yes,0-40k,Not working yet,None,0.0,1.0,0.0,0.0,0.0,0.0,Neither easy nor difficult,Good Culture,Male,53,Nigeria,Bachelors,Black or African American
+Data Engineer,Yes,0-40k,Tech,Python,4.0,6.0,6.0,3.0,7.0,9.0,Neither easy nor difficult,Better Salary,Female,33,Romania,Bachelors,White or Caucasian
+Student/Looking/None,Yes,0-40k,Finance,R,3.0,5.0,5.0,4.0,5.0,6.0,Difficult,Better Salary,Male,39,Other (Please Specify),High School,Black or African American
+Data Analyst,Yes,0-40k,Healthcare,Excel,6.0,7.0,5.0,7.0,7.0,9.0,Difficult,Better Salary,Female,22,United Kingdom,Bachelors,White or Caucasian
+Data Analyst,No,41k-65k,Finance,Python,4.0,7.0,7.0,7.0,5.0,5.0,Easy,Better Salary,Male,24,Germany,Bachelors,White or Caucasian
+Data Architect,No,86k-105k,Energy,Python,5.0,1.0,3.0,1.0,4.0,5.0,Difficult,Good Work/Life Balance,Male,31,Canada,High School,White or Caucasian
+Data Analyst,Yes,0-40k,Marketing,Python,0.0,0.0,0.0,0.0,0.0,0.0,Very Difficult,Better Salary,Male,25,Aisa,Bachelors,Asian or Asian American
+Student/Looking/None,No,0-40k,Tech,R,4.0,7.0,7.0,6.0,6.0,6.0,Neither easy nor difficult,Better Salary,Male,25,India,Bachelors,Asian or Asian American
+Data Analyst,No,0-40k,Tech,Python,3.0,4.0,4.0,4.0,2.0,0.0,Neither easy nor difficult,Good Work/Life Balance,Male,23,India,Bachelors,Asian or Asian American
+Ads operations,Yes,41k-65k,Marketing,SQL,6.0,7.0,7.0,7.0,7.0,6.0,Neither easy nor difficult,Remote Work,Male,23,India,Bachelors,Asian or Asian American
+Data Analyst,No,86k-105k,Healthcare,Python,8.0,9.0,8.0,8.0,8.0,9.0,Difficult,Better Salary,Male,40,United States,High School,White or Caucasian
+Data Analyst,No,41k-65k,Homelessness,C/C++,5.0,6.0,6.0,2.0,0.0,4.0,Neither easy nor difficult,Better Salary,Male,29,United States,Bachelors,Hispanic or Latino
+Data Analyst,Yes,0-40k,Tech,Python,1.0,7.0,5.0,5.0,4.0,4.0,Difficult,Better Salary,Male,28,India,Bachelors,South Indian 
+Data Analyst,Yes,0-40k,Healthcare,R,3.0,6.0,6.0,4.0,6.0,3.0,Very Easy,Better Salary,Female,28,United Kingdom,Masters,Black or African American
+Student/Looking/None,Yes,0-40k,Telecommunication,Python,0.0,3.0,3.0,4.0,5.0,5.0,Difficult,Good Work/Life Balance,Female,26,India,Masters,Asian or Asian American
+Data Engineer,No,41k-65k,Construction,Python,6.0,8.0,8.0,5.0,5.0,5.0,Neither easy nor difficult,Better Salary,Male,30,Netherlands,Masters,White or Caucasian
+Data Analyst,Yes,66k-85k,Education,SQL,5.0,9.0,7.0,9.0,8.0,9.0,Neither easy nor difficult,Better Salary,Male,27,Australia,Bachelors,Asian or Asian American
+Data Analyst,Yes,0-40k,Marketing,None,2.0,0.0,5.0,3.0,0.0,3.0,Very Difficult,Remote Work,Male,28,Nigeria,Bachelors,Black or African American
+Data Analyst,No,66k-85k,Education,Python,3.0,3.0,5.0,3.0,3.0,4.0,Neither easy nor difficult,Good Work/Life Balance,Female,38,Nigeria,Masters,Black or African American
+Data Analyst,No,0-40k,Finance,Python,2.0,6.0,5.0,5.0,6.0,6.0,Easy,Good Culture,Male,22,Mexico,Bachelors,White or Caucasian
+Data Analyst,Yes,86k-105k,Energy,Python,7.0,8.0,9.0,9.0,9.0,9.0,Difficult,Better Salary,Male,34,United States,Bachelors,Hispanic or Latino
+Data Analyst,No,0-40k,Tech,Python,3.0,8.0,8.0,5.0,7.0,9.0,Easy,Better Salary,Male,26,Indonesia,Bachelors,Asian or Asian American
+Data Analyst,Yes,66k-85k,Tech,Python,5.0,9.0,7.0,7.0,8.0,9.0,Neither easy nor difficult,Better Salary,Female,26,Canada,Bachelors,Asian or Asian American
+Data Engineer,No,66k-85k,Education,Python,10.0,10.0,10.0,9.0,9.0,10.0,Difficult,Remote Work,Male,25,Greece,Bachelors,Greek
+Data Scientist,Yes,125k-150k,Tech,Python,5.0,3.0,7.0,4.0,5.0,3.0,Easy,Collaboration ,Male,34,United States,Bachelors,Black or African American
+Power Bi Developer,Yes,41k-65k,Finance,DAX,7.0,10.0,10.0,10.0,4.0,5.0,Neither easy nor difficult,Good Work/Life Balance,Female,32,Poland,Bachelors,Hispanic or Latino
+Student/Looking/None,No,0-40k,Construction,R,2.0,2.0,2.0,2.0,2.0,2.0,Difficult,Better Salary,Male,24,United States,Associates,Black or African American
+Data Engineer,Yes,0-40k,Tech,Python,7.0,3.0,3.0,2.0,5.0,9.0,Difficult,Better Salary,Male,26,Argentina,Bachelors,Hispanic or Latino
+Data Analyst,Yes,41k-65k,Telecommunication,SQL,4.0,7.0,5.0,6.0,4.0,6.0,Difficult,Better Salary,Female,32,Sweden,Masters,Black or African American
+Data Scientist,No,41k-65k,Tech,R,5.0,1.0,7.0,1.0,1.0,2.0,Neither easy nor difficult,Good Work/Life Balance,Male,40,Portugal,Masters,White or Caucasian
+Data Analyst,No,0-40k,Marketing,Python,0.0,7.0,1.0,6.0,0.0,0.0,Easy,Better Salary,Male,27,United States,Bachelors,Black or African American
+Data Analyst,Yes,66k-85k,Tech,R,4.0,3.0,6.0,7.0,4.0,7.0,Easy,Better Salary,Male,28,United States,Masters,Black or African American
+Data Analyst,Yes,0-40k,Marketing,Python,1.0,9.0,5.0,5.0,1.0,1.0,Difficult,Better Salary,Male,30,Nigeria,Bachelors,African
+Data Analyst,Yes,0-40k,Taking bootcamp,Python,0.0,6.0,5.0,5.0,5.0,6.0,Difficult,Remote Work,Male,37,United States,Bachelors,White or Caucasian
+Software support,No,41k-65k,Tech,JavaScript,7.0,7.0,5.0,5.0,0.0,0.0,Difficult,Good Culture,Male,32,Australia,Bachelors,Asian or Asian American
+Data Analyst,Yes,41k-65k,Tech,Python,9.0,7.0,10.0,10.0,5.0,8.0,Neither easy nor difficult,Better Salary,Male,24,Saudi Arabia,Bachelors,Arab
+Data Analyst,Yes,0-40k,Tech,Python,6.0,7.0,7.0,7.0,5.0,6.0,Neither easy nor difficult,Better Salary,Male,39,Argentina,Associates,White or Caucasian
+Data Analyst,Yes,125k-150k,Finance,Python,6.0,8.0,7.0,4.0,4.0,2.0,Easy,Better Tech Stack,Male,34,Australia,Bachelors,Asian or Asian American
+Data Analyst,No,41k-65k,Defense,Python,5.0,6.0,10.0,7.0,3.0,3.0,Neither easy nor difficult,Remote Work,Male,27,United States,Bachelors,Black or African American
+Data Analyst,Yes,66k-85k,Healthcare,SQL,7.0,7.0,4.0,7.0,7.0,7.0,Difficult,Better Salary,Male,54,United States,High School,White or Caucasian
+Student/Looking/None,No,0-40k,Tech,Python,0.0,,,,,,Difficult,Remote Work,Female,20,India,Bachelors,Asian or Asian American
+Student/Looking/None,Yes,0-40k,Finance,SQL,3.0,3.0,3.0,3.0,3.0,3.0,Neither easy nor difficult,Good Work/Life Balance,Male,25,India,Masters,Asian or Asian American
+Student/Looking/None,No,0-40k,Tech,Python,7.0,7.0,2.0,2.0,7.0,9.0,Easy,Good Work/Life Balance,Male,33,India,Bachelors,Asian or Asian American
+Data Analyst,Yes,41k-65k,Tech,Python,4.0,8.0,8.0,8.0,10.0,10.0,Very Easy,Remote Work,Male,30,United Kingdom,Masters,White or Caucasian
+Student/Looking/None,Yes,0-40k,Tech,Python,0.0,4.0,2.0,0.0,1.0,3.0,Neither easy nor difficult,Better Salary,Male,31,Niger,High School,Black or African American
+Student/Looking/None,Yes,0-40k,Automotive,Python,5.0,6.0,5.0,6.0,2.0,1.0,Difficult,Remote Work,Male,22,France,Masters,Arabian (from Maghreb)
+Data Analyst,Yes,66k-85k,Tech,R,8.0,10.0,10.0,10.0,8.0,9.0,Neither easy nor difficult,Remote Work,Female,38,United States,Bachelors,Black or African American
+Data Analyst,No,0-40k,Logistics,Python,6.0,9.0,7.0,7.0,5.0,8.0,Neither easy nor difficult,Good Work/Life Balance,Male,22,Malaysia,Bachelors,Malay
+Data Scientist,Yes,0-40k,Real Estate,Python,2.0,3.0,4.0,5.0,3.0,6.0,Very Easy,Better Salary,Male,33,India,Bachelors,Asian or Asian American
+Data Analyst,Yes,41k-65k,Tech,Python,3.0,6.0,6.0,6.0,5.0,5.0,Neither easy nor difficult,Better Salary,Male,27,Canada,Bachelors,White or Caucasian
+Data Analyst,No,0-40k,Tech,R,0.0,6.0,3.0,0.0,0.0,10.0,Neither easy nor difficult,Remote Work,Male,19,Algeria,Bachelors,White or Caucasian
+Investigation specialist,No,0-40k,Marketing,Python,1.0,6.0,2.0,5.0,1.0,0.0,Neither easy nor difficult,Better Salary,Male,24,India,Bachelors,Indian
+Director,No,150k-225k,Finance,None,8.0,10.0,9.0,10.0,8.0,10.0,Very Easy,Good Culture,Female,58,United States,Masters,White or Caucasian
+Data Analyst,No,0-40k,Tech,Python,2.0,2.0,5.0,6.0,6.0,3.0,Neither easy nor difficult,Good Work/Life Balance,Male,22,Nigeria,Bachelors,Black or African American
+Data Analyst,No,86k-105k,Tech,Python,4.0,4.0,4.0,4.0,3.0,4.0,Neither easy nor difficult,Better Salary,Male,26,Ireland,Masters,Asian or Asian American
+Data Manager,No,41k-65k,Tech,Other,4.0,5.0,4.0,5.0,5.0,3.0,Easy,Good Culture,Female,31,United Kingdom,Bachelors,White or Caucasian
+Data Analyst,No,41k-65k,Agriculture,Python,2.0,2.0,4.0,5.0,1.0,1.0,Neither easy nor difficult,Better Salary,Male,23,United States,High School,Hispanic or Latino
+Data Analyst,No,86k-105k,Healthcare,Python,7.0,10.0,10.0,10.0,7.0,8.0,Neither easy nor difficult,Remote Work,Female,31,United States,Masters,Asian or Asian American
+Student/Looking/None,No,66k-85k,Construction,Other,5.0,5.0,7.0,7.0,9.0,10.0,Difficult,Better Salary,Female,24,United States,Bachelors,Asian or Asian American
+Analytics Engineer,Yes,41k-65k,Finance,Python,8.0,10.0,10.0,10.0,10.0,10.0,Neither easy nor difficult,Better Salary,Male,29,Mexico,Bachelors,Hispanic or Latino
+Student/Looking/None,Yes,0-40k,Education,Python,7.0,8.0,9.0,8.0,9.0,10.0,Difficult,Good Work/Life Balance,Male,26,Indonesia,Bachelors,Asian or Asian American
+Student/Looking/None,Yes,0-40k,"Interning in Sciences, Weather and Meteorological data",Python,3.0,9.0,9.0,9.0,9.0,9.0,Neither easy nor difficult,Better Salary,Male,20,India,High School,Asian or Asian American
+Data Analyst,Yes,0-40k,Education,Python,0.0,2.0,3.0,2.0,4.0,2.0,Neither easy nor difficult,Better Salary,Male,23,India,Bachelors,Asian or Asian American
+Data Analyst,No,106k-125k,Tech,Python,8.0,8.0,9.0,8.0,7.0,7.0,Neither easy nor difficult,Good Work/Life Balance,Male,33,United States,Masters,White or Caucasian
+Student/Looking/None,Yes,0-40k,Tech,Python,2.0,3.0,3.0,5.0,5.0,9.0,Easy,Remote Work,Male,26,Nigeria,Bachelors,Black or African American
+Data Analyst,Yes,0-40k,Consulting,R,3.0,9.0,8.0,8.0,6.0,6.0,Difficult,Better Salary,Male,27,India,Bachelors,Asian or Asian American
+Student/Looking/None,No,0-40k,Agriculture,SQL,0.0,8.0,8.0,8.0,8.0,8.0,Neither easy nor difficult,Better Salary,Male,22,uzb,Bachelors,Asian or Asian American
+Data Analyst,Yes,0-40k,Tech,Python,3.0,9.0,9.0,6.0,9.0,4.0,Easy,Better Salary,Male,23,Spain,Masters,White or Caucasian
+SAP Security Analyst,Yes,0-40k,Beverage and foods,Python,3.0,6.0,7.0,5.0,4.0,4.0,Neither easy nor difficult,Better Salary,Male,28,Mexico,Bachelors,Hispanic or Latino
+Data Analyst,No,41k-65k,Finance,SQL,7.0,5.0,4.0,6.0,4.0,5.0,Easy,Good Work/Life Balance,Female,39,Portugal,Masters,White or Caucasian
+BI Manager,No,106k-125k,Transportation,Python,3.0,2.0,5.0,3.0,3.0,4.0,Neither easy nor difficult,Better Salary,Male,37,United States,Masters,White or Caucasian
+Database Developer,Yes,41k-65k,Education,SQL,4.0,7.0,7.0,7.0,7.0,7.0,Difficult,Better Salary,Female,29,United States,Masters,White or Caucasian
+Data Analyst,Yes,106k-125k,Finance,Python,5.0,6.0,6.0,5.0,4.0,3.0,Easy,Good Work/Life Balance,Male,42,United States,Masters,White or Caucasian
+Student/Looking/None,No,0-40k,Tech,R,0.0,0.0,0.0,0.0,0.0,0.0,Neither easy nor difficult,Good Culture,Female,25,Canada,Bachelors,Asian or Asian American
+Database Developer,Yes,0-40k,Telecommunication,Python,5.0,5.0,5.0,5.0,4.0,5.0,Easy,Better Salary,Male,66,Morocco,High School,Black or African American
+Data Analyst,Yes,125k-150k,Marketing,R,8.0,5.0,6.0,6.0,5.0,7.0,Easy,Better Salary,Male,26,United States,Bachelors,White or Caucasian
+Data Scientist,No,0-40k,Manufacturing,R,4.0,6.0,7.0,7.0,4.0,6.0,Difficult,Better Salary,Male,21,United States,Bachelors,White or Caucasian
+Student/Looking/None,Yes,0-40k,Tech,Python,1.0,2.0,1.0,2.0,1.0,2.0,Difficult,Better Salary,Male,26,Oman,Bachelors,Asian or Asian American
+Data Engineer,No,0-40k,Tech,Python,6.0,6.0,6.0,6.0,4.0,3.0,Easy,Opportunity for advancement,Male,24,Costa Rica,Bachelors,Hispanic or Latino
+Data Analyst,No,41k-65k,Automotive,Python,8.0,7.0,6.0,7.0,6.0,8.0,Easy,Remote Work,Male,22,United States,Bachelors,Asian or Asian American
